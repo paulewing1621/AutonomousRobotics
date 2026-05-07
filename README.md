@@ -1,14 +1,5 @@
-# Autonomous Robotics — Final Project
-**CS-7630 · Autonomous Exploration**
-*Maxime Laurent · Paul Ewing · Bob le TurtleBot*
+# Autonomous Robotics"
 
----
-
-## Overview
-
-A TurtleBot3 autonomously undocks from its charging station, explores an unknown floor using frontier-based exploration, builds a SLAM map and a WiFi signal strength map, returns to its starting position, and redocks — all without human intervention.
-
----
 
 ## System Architecture
 

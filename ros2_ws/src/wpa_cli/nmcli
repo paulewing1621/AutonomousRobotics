@@ -1,0 +1,3 @@
+
+
+turtlebot ALL = (root) NOPASSWD: /opt/turtlebot_ws/nmcli_scan.sh

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LandXML xmlns="http://www.landxml.org/schema/LandXML-1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.landxml.org/schema/LandXML-1.2 http://www.landxml.org/schema/LandXML-1.2/LandXML-1.2.xsd" version="1.2" date="2024-01-16" time="14:46:32.62" readOnly="false" language="English">
+<Units>
+<Metric linearUnit="meter" areaUnit="squareMeter" volumeUnit="cubicMeter" angularUnit="grads" latLongAngularUnit="decimal degrees" temperatureUnit="celsius" pressureUnit="milliBars"/>
+</Units>
+<CoordinateSystem name="None" horizontalDatum="" verticalDatum="" fileLocation=""/>
+<Application name="Leica Captivate LandXML Export" manufacturer="Leica Geosystems AG" version="8.00" manufacturerURL="www.leica-geosystems.com">
+<Author company="Leica Geosystems AG" companyURL="www.leica-geosystems.com" timeStamp="2024-01-16T14:46:32.62"/>
+</Application>
+<CgPoints>
+<CgPoint name="Stn001" oID="Stn001" timeStamp="2024-01-16T14:40:35.33">0.000000 0.000000 0.000000</CgPoint>
+</CgPoints>
+<Survey>
+<SurveyHeader name="lab_0"/>
+<Equipment>
+<InstrumentDetails id="TPS_3" manufacturer="Leica Geosystems AG" model="MS60 1&quot; R2000" serialNumber="887366" horizCollimation="0.000260780324117" vertCollimation="-0.000629300739026">
+<Corrections>
+</Corrections>
+</InstrumentDetails>
+</Equipment>
+<InstrumentSetup id="TPSSetupID_3_2" instrumentDetailsID="TPS_3" stationName="Stn001" instrumentHeight="1.500000" orientationAzimuth="0.000000000000000">
+<InstrumentPoint pntRef="Stn001" timeStamp="2024-01-16T14:40:35.68">0.000000 0.000000 0.000000</InstrumentPoint>
+</InstrumentSetup>
+</Survey>
+<HexagonLandXML xmlns="http://xml.hexagon.com/schema/HeXML-2.0" xsi:schemaLocation="http://xml.hexagon.com/schema/HeXML-2.0 http://xml.hexagon.com/schema/HeXML-2.0.xsd" xmlns:landxml="http://www.landxml.org/schema/LandXML-1.2" averagingMode="None" averagingMethod="Weighted" averagingPosLimit="0.050000" averagingHgtLimit="0.075000">
+<CoordinateSystem name="None">
+<Ellipsoid name="None" SemiMajorAxis="0.000000" ReciprocFlattening="270.000000"/>
+</CoordinateSystem>
+<Point uniqueID="Stn001" class="reference" subclass="TPS" dataSourceRef="lab_7366_0116_144030">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="0.000000" n="0.000000" hghthO="0.000000">
+<CoordinateQuality Qxx="0.0000000000" Qxy="0.0000000000" Qxz="0.0000000000" Qyy="0.0000000000" Qyz="0.0000000000" Qzz="0.0000000000" MeanError="0.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality MeanError="0.000000"/>
+</Point>
+<Survey name="lab_0" SurveyDuration="P0Y0M0DT0H0M0S" dataSourceRef="lab_7366_0116_144030">
+<TPSCorrection instrumentDetailsID="TPS_3" uniqueID="13" referenceRadius="6378000.000000" offsetCentralMeridian="0.000000" scaleFactorCentralMeridian="1.000000" dryTemperature="12.000000" wetTemperature="8.264284" pressure="1013.250000" refractionCoefficient="0.130000" atmosphericPPM="0.000000" projectionPPM="0.000000" heightReductionPPM="0.000000" individualPPM="0.000000" combinedPPM="0.000000"/>
+<InstrumentSetup uniqueID="TPSSetupID_3_2" tpsSetupMethod="setOrientation">
+<Scan name="lab" State="scanned" NumberPoints="57355" description="" TimeCreated="2024-01-16T14:42:33.65" TimeModified="2024-01-16T14:45:20.75" TimeStarted="2024-01-16T14:42:37.08" TimeEnded="2024-01-16T14:45:20.75" PanoramaImage="6" MaxSNR="2725" MinSNR="8" MaxIntensity="56940" MinIntensity="1257" MaxDistance="2.306000" MinDistance="2.258900" MaxEasting="-2.234369" MinEasting="-2.283927" MaxNorthing="-0.227171" MinNorthing="-0.415871" MaxElevation="1.458098" MinElevation="1.313642">
+  <ScanDefinition>
+    <ScanAreaRectangular AngleResolutionHz="0.019395538721120" AngleResolutionV="0.019395538721120" ScanDirection="Vertical" ScanMode="Continuous" ScanRate="Full" ScanVelocity="0.304664" MinDistance="1.500000" MaxDistance="3.500000" DistanceFilter="Min_Max">
+      <ScanDefPoints horizAngle="288.297452507801210" zenithAngle="101.183865160336520" horizDistance="-1.000000"/>
+      <ScanDefPoints horizAngle="293.689095761082290" zenithAngle="105.155640845024100" horizDistance="-1.000000"/>
+    </ScanAreaRectangular>
+  </ScanDefinition>
+  <landxml:DocFileRef name="lab_160124_144237" location="lab_xml"/>
+  <Scan3DTransformation shiftdX="0.000000" shiftdY="0.000000" shiftdZ="0.000000" rotationX="0.000000000000000" rotationY="0.000000000000000" rotationZ="0.000000000000000" scaleX="1" scaleY="1" scaleZ="1"/>
+</Scan>
+<PanoramaImage uniqueID="6">
+<landxml:DocFileRef name="Img_Pano_160124_144153" location="lab_xml" fileFormat="jpg"/>
+<PanoramaSequences SequenceNum="0" ImageRef="5_3"/>
+</PanoramaImage>
+<TPSImage uniqueID="4_3" InteriorOrient="3_3" CameraCalib="2_3" ChipWindow="1_3" horizAngle="294.041321953900310" zenithAngle="105.394479902009790" InclinationLength="0.013591591407778" InclinationCross="0.004517431008763" Width="1280" Height="960" Dimension="Landscape">
+<landxml:DocFileRef name="Img_160124_144040" location="lab_xml" fileFormat="jpg"/>
+<ExteriorOrientation ProjectionCenterX="-0.060839" ProjectionCenterY="0.010981" ProjectionCenterZ="1.555922" Phi="294.041321953900310" Theta="105.394479902009790" Kappa="0.000000000000000"/>
+</TPSImage>
+<TPSImage uniqueID="5_3" InteriorOrient="3_3" CameraCalib="2_3" ChipWindow="1_3" horizAngle="290.993348889252790" zenithAngle="103.169610368196970" InclinationLength="0.014577469394096" InclinationCross="0.005069625078807" Width="1280" Height="960" Dimension="Landscape">
+<landxml:DocFileRef name="Img_Pano_00_00_160124_144148" location="lab_xml" fileFormat="jpg"/>
+<ExteriorOrientation ProjectionCenterX="-0.059325" ProjectionCenterY="0.008338" ProjectionCenterZ="1.557968" Phi="290.993348889252790" Theta="103.169610368196970" Kappa="0.000000000000000"/>
+</TPSImage>
+<TPSImage uniqueID="10_3" InteriorOrient="9_3" CameraCalib="8_3" ChipWindow="7_3" horizAngle="290.961121337442590" zenithAngle="103.124901202429310" InclinationLength="0.000000000000000" InclinationCross="0.000000000000000" Width="508" Height="380" Dimension="Landscape">
+<landxml:DocFileRef name="Img_Pano_160124_144153" location="lab_xml" fileFormat="jpg"/>
+<ExteriorOrientation ProjectionCenterX="-0.059288" ProjectionCenterY="0.008309" ProjectionCenterZ="1.558010" Phi="290.961121337442590" Theta="103.124901202429310" Kappa="0.000000000000000"/>
+</TPSImage>
+</InstrumentSetup>
+<TPSCalibration instrumentDetailsID="TPS_3" compLongitudinal="-0.000258447983592" compTransversal="0.000630474311586" verticalIndexError="-0.000629300739026" collimHzError="0.000260780324117" tiltAxisError="0.000497868869177" aTRHzError="0.001246669448038" aTRVError="0.003748918748313" timeStamp="2023-06-27T16:50:11.49">
+<CameraInfo uniqueID="2_3" CameraType="OVC" CameraModel="Micron MT9P031" PixelSize="2.200000E-006" PixelScale="1" ChipDimensionWidth="0" ChipDimensionHeight="0" ProjectionCenterX="0.016615" ProjectionCenterY="0.060762" ProjectionCenterZ="0.054600" Phi="0.267205421578889" Theta="0.336387345818510" Kappa="-0.054338295033806" DistortionK1="0" DistortionK2="0" ChipWindow="1"/>
+<CameraInfo uniqueID="8_3" CameraType="OVC" CameraModel="Micron MT9P031" PixelSize="8.800000E-006" PixelScale="1" ChipDimensionWidth="0" ChipDimensionHeight="0" ProjectionCenterX="0.016615" ProjectionCenterY="0.060762" ProjectionCenterZ="0.054600" Phi="0.000000000000000" Theta="0.000000000000000" Kappa="0.000000000000000" DistortionK1="0" DistortionK2="0" ChipWindow="7"/>
+<InteriorOrientation uniqueID="3_3" PrincipalPntX="1240.74" PrincipalPntY="910.57" CameraConstant="2.058050E-002" CrossHairPosX="0" CrossHairPosY="0" VirtualCameraConstant="0"/>
+<InteriorOrientation uniqueID="9_3" PrincipalPntX="254" PrincipalPntY="190" CameraConstant="2.058050E-002" CrossHairPosX="0" CrossHairPosY="0" VirtualCameraConstant="0"/>
+<ChipWindow uniqueID="1_3" Xposition="0" Yposition="0" ChipWindowWidth="2560" ChipWindowHeight="1920"/>
+<ChipWindow uniqueID="7_3" Xposition="0" Yposition="0" ChipWindowWidth="508" ChipWindowHeight="380"/>
+</TPSCalibration>
+</Survey>
+<Codelist codelistName="lab" dataSourceRef="lab_7366_0116_144030">
+  <CodeGroup codeGroupName="Default" activatedOnInstrument="true">
+  </CodeGroup>
+</Codelist>
+<Project>
+<DataSources>
+<DataSource uniqueID="lab_7366_0116_144030" name="lab" version="4.00.091"/>
+</DataSources>
+</Project>
+</HexagonLandXML>
+</LandXML>

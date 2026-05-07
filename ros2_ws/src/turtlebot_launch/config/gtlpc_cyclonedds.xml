@@ -1,0 +1,17 @@
+<CycloneDDS>
+
+    <Domain>
+
+        <General>
+
+            <Interfaces>
+                <NetworkInterface name="vlan176"/>
+            </Interfaces>
+
+            <DontRoute>true</DontRoute>
+
+        </General>
+
+    </Domain>
+
+</CycloneDDS>

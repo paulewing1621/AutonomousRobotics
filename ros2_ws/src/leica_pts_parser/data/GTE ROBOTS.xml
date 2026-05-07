@@ -1,0 +1,1114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LandXML xmlns="http://www.landxml.org/schema/LandXML-1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.landxml.org/schema/LandXML-1.2 http://www.landxml.org/schema/LandXML-1.2/LandXML-1.2.xsd" version="1.2" date="2026-02-09" time="14:21:10.77" readOnly="false" language="English">
+<Units>
+<Metric linearUnit="meter" areaUnit="squareMeter" volumeUnit="cubicMeter" angularUnit="grads" latLongAngularUnit="decimal degrees" temperatureUnit="celsius" pressureUnit="milliBars"/>
+</Units>
+<CoordinateSystem name="None" horizontalDatum="" verticalDatum="" fileLocation=""/>
+<Application name="Leica Captivate LandXML Export" manufacturer="Leica Geosystems AG" version="8.30" manufacturerURL="www.leica-geosystems.com">
+<Author company="Leica Geosystems AG" companyURL="www.leica-geosystems.com" timeStamp="2026-02-09T14:21:10.77"/>
+</Application>
+<CgPoints>
+<CgPoint name="MARKER 11 B" oID="MARKER 11 B" role="measured" timeStamp="2026-02-09T14:06:10.64">10.775476 0.390579 -0.518051</CgPoint>
+<CgPoint name="MARKER 11 A" oID="MARKER 11 A" role="measured" timeStamp="2026-02-09T14:05:25.24">10.751979 0.203499 -0.702630</CgPoint>
+<CgPoint name="MARKER 14 B" oID="MARKER 14 B" role="measured" timeStamp="2026-02-09T14:04:22.85">11.641929 -2.918744 0.028795</CgPoint>
+<CgPoint name="MARKER 14 A" oID="MARKER 14 A" role="measured" timeStamp="2026-02-09T14:03:38.49">11.619863 -3.106891 -0.153871</CgPoint>
+<CgPoint name="SCREW L@118" oID="SCREW L" role="measured" timeStamp="2026-02-09T14:02:14.11">3.937040 -6.839958 1.368239</CgPoint>
+<CgPoint name="SCREW L" oID="SCREW L" timeStamp="2026-02-09T14:02:14.11">3.937032 -6.839956 1.368235</CgPoint>
+<CgPoint name="SCREW L@114" oID="SCREW L" role="measured" timeStamp="2026-02-09T14:01:41.63">3.937024 -6.839954 1.368231</CgPoint>
+<CgPoint name="POSE4" oID="POSE4" timeStamp="2026-02-09T13:59:32.60">6.288231 0.936908 -0.851572</CgPoint>
+<CgPoint name="SCREW L@111" oID="SCREW L" role="measured" timeStamp="2026-02-09T13:59:13.01">9.555682 -7.613913 1.360724</CgPoint>
+<CgPoint name="REFL 3@110" oID="REFL 3" role="measured" timeStamp="2026-02-09T13:58:55.94">9.545775 -7.618472 -0.700011</CgPoint>
+<CgPoint name="REFL 2@109" oID="REFL 2" role="measured" timeStamp="2026-02-09T13:57:51.82">10.283922 -1.691118 -0.732302</CgPoint>
+<CgPoint name="PRISM PLANT@108" oID="PRISM PLANT" role="measured" timeStamp="2026-02-09T13:56:39.08">5.542427 3.593038 -0.789340</CgPoint>
+<CgPoint name="MARKER 08 B" oID="MARKER 08 B" role="measured" timeStamp="2026-02-09T13:16:50.89">3.813256 -4.209499 -0.501007</CgPoint>
+<CgPoint name="MARKER 08 A" oID="MARKER 08 A" role="measured" timeStamp="2026-02-09T13:16:17.50">3.996274 -4.235009 -0.690087</CgPoint>
+<CgPoint name="POSE 3" oID="POSE 3" timeStamp="2026-02-09T13:15:13.72">4.816719 -6.376036 -0.843759</CgPoint>
+<CgPoint name="REFL 2@101" oID="REFL 2" role="measured" timeStamp="2026-02-09T13:14:53.95">10.281449 -1.689670 -0.733605</CgPoint>
+<CgPoint name="REFL 1@100" oID="REFL 1" role="measured" timeStamp="2026-02-09T13:13:49.57">11.101314 2.709467 -0.725582</CgPoint>
+<CgPoint name="PRISM PLANT@99" oID="PRISM PLANT" role="measured" timeStamp="2026-02-09T13:12:52.34">5.542969 3.593065 -0.786416</CgPoint>
+<CgPoint name="PRISM OLIVIER@98" oID="PRISM OLIVIER" role="measured" timeStamp="2026-02-09T13:11:45.43">-1.171215 -5.317194 -0.777929</CgPoint>
+<CgPoint name="SCREW L@95" oID="SCREW L" role="measured" timeStamp="2026-02-09T13:02:52.59">9.557301 -7.616191 1.359861</CgPoint>
+<CgPoint name="REFL 3" oID="REFL 3" role="measured" timeStamp="2026-02-09T13:01:56.85">9.545690 -7.619134 -0.702403</CgPoint>
+<CgPoint name="MARKER 13 B" oID="MARKER 13 B" role="measured" timeStamp="2026-02-09T13:00:56.39">3.714225 4.036854 -0.509405</CgPoint>
+<CgPoint name="MARKER 13 A" oID="MARKER 13 A" role="measured" timeStamp="2026-02-09T13:00:10.47">3.898760 4.014195 -0.692219</CgPoint>
+<CgPoint name="MARKER 09 B" oID="MARKER 09 B" role="measured" timeStamp="2026-02-09T12:59:22.97">4.768755 -1.197655 -0.461237</CgPoint>
+<CgPoint name="MARKER 09 A" oID="MARKER 09 A" role="measured" timeStamp="2026-02-09T12:58:47.24">4.785272 -1.012158 -0.647788</CgPoint>
+<CgPoint name="MARKER 15 B" oID="MARKER 15 B" role="measured" timeStamp="2026-02-09T12:57:05.40">6.700907 -6.445416 -0.282648</CgPoint>
+<CgPoint name="MARKER 15 A" oID="MARKER 15 A" role="measured" timeStamp="2026-02-09T12:56:29.88">6.719411 -6.258769 -0.467682</CgPoint>
+<CgPoint name="MARKER 01 B" oID="MARKER 01 B" role="measured" timeStamp="2026-02-09T12:55:25.39">9.130312 -7.619746 -0.492930</CgPoint>
+<CgPoint name="MARKER 01 A" oID="MARKER 01 A" role="measured" timeStamp="2026-02-09T12:54:46.01">8.945013 -7.594132 -0.679228</CgPoint>
+<CgPoint name="MARKER 02 B" oID="MARKER 02 B" role="measured" timeStamp="2026-02-09T12:53:36.00">12.693549 -8.263503 -0.519154</CgPoint>
+<CgPoint name="MARKER 02 A" oID="MARKER 02 A" role="measured" timeStamp="2026-02-09T12:53:10.11">12.506663 -8.246351 -0.703632</CgPoint>
+<CgPoint name="MARKER 04 B" oID="MARKER 04 B" role="measured" timeStamp="2026-02-09T12:52:17.73">10.223778 -5.095184 -0.517292</CgPoint>
+<CgPoint name="MARKER 04 A" oID="MARKER 04 A" role="measured" timeStamp="2026-02-09T12:51:36.52">10.407124 -5.119707 -0.705207</CgPoint>
+<CgPoint name="POS2" oID="POS2" timeStamp="2026-02-09T12:50:12.56">8.981630 -6.070325 -0.846931</CgPoint>
+<CgPoint name="WCH R@65" oID="WCH R" role="measured" timeStamp="2026-02-09T12:49:49.76">5.271150 3.519254 1.121959</CgPoint>
+<CgPoint name="REFL 1@64" oID="REFL 1" role="measured" timeStamp="2026-02-09T12:49:03.83">11.102821 2.709902 -0.727270</CgPoint>
+<CgPoint name="PRISM PLANT@63" oID="PRISM PLANT" role="measured" timeStamp="2026-02-09T12:47:52.96">5.538486 3.590728 -0.786558</CgPoint>
+<CgPoint name="PRISM OLIVIER@62" oID="PRISM OLIVIER" role="measured" timeStamp="2026-02-09T12:46:53.41">-1.169626 -5.314810 -0.776478</CgPoint>
+<CgPoint name="MARKER 07 B" oID="MARKER 07 B" role="measured" timeStamp="2026-02-09T12:36:57.05">-1.163715 -5.207736 -0.505765</CgPoint>
+<CgPoint name="MARKER 07 A" oID="MARKER 07 A" role="measured" timeStamp="2026-02-09T12:36:25.90">-1.142067 -5.020646 -0.689013</CgPoint>
+<CgPoint name="MARKER 06 B" oID="MARKER 06 B" role="measured" timeStamp="2026-02-09T12:35:38.00">1.281488 -6.685115 -0.512146</CgPoint>
+<CgPoint name="MARKER 06 A" oID="MARKER 06 A" role="measured" timeStamp="2026-02-09T12:35:08.58">1.093133 -6.664225 -0.695360</CgPoint>
+<CgPoint name="MARKER 05 B" oID="MARKER 05 B" role="measured" timeStamp="2026-02-09T12:34:21.05">4.689278 -7.027515 -0.507702</CgPoint>
+<CgPoint name="MARKER 05 A" oID="MARKER 05 A" role="measured" timeStamp="2026-02-09T12:33:43.97">4.503362 -7.003096 -0.694136</CgPoint>
+<CgPoint name="MARKER 16 B" oID="MARKER 16 B" role="measured" timeStamp="2026-02-09T12:15:35.38">7.507386 -6.388265 -0.354927</CgPoint>
+<CgPoint name="MARKER 03 B" oID="MARKER 03 B" role="measured" timeStamp="2026-02-09T12:09:24.44">14.935213 -7.363688 -0.524430</CgPoint>
+<CgPoint name="MARKER 03 A" oID="MARKER 03 A" role="measured" timeStamp="2026-02-09T12:08:49.32">14.915679 -7.548480 -0.708337</CgPoint>
+<CgPoint name="WCH L" oID="WCH L" role="measured" timeStamp="2026-02-09T12:07:08.94">12.206527 2.840910 1.536528</CgPoint>
+<CgPoint name="WCH R" oID="WCH R" role="measured" timeStamp="2026-02-09T12:05:56.79">5.270466 3.519335 1.122094</CgPoint>
+<CgPoint name="MARKER 17 B" oID="MARKER 17 B" role="measured" timeStamp="2026-02-09T12:03:18.79">4.893727 0.665233 -0.547471</CgPoint>
+<CgPoint name="MARKER 17 A" oID="MARKER 17 A" role="measured" timeStamp="2026-02-09T12:02:17.22">5.078649 0.643333 -0.733240</CgPoint>
+<CgPoint name="MARKER 12 B" oID="MARKER 12 B" role="measured" timeStamp="2026-02-09T12:00:45.54">6.840325 3.435138 -0.523805</CgPoint>
+<CgPoint name="MARKER 12 A" oID="MARKER 12 A" role="measured" timeStamp="2026-02-09T12:00:00.62">7.023913 3.407254 -0.709765</CgPoint>
+<CgPoint name="MARKER 10 B" oID="MARKER 10 B" role="measured" timeStamp="2026-02-09T11:58:23.47">9.175623 2.552625 -0.474095</CgPoint>
+<CgPoint name="MARKER 10 A" oID="MARKER 10 A" role="measured" timeStamp="2026-02-09T11:57:43.67">9.355368 2.529273 -0.662122</CgPoint>
+<CgPoint name="MARKER 00 B" oID="MARKER 00 B" role="measured" timeStamp="2026-02-09T11:55:58.29">10.360592 -1.098207 -0.521558</CgPoint>
+<CgPoint name="MARKER 00 A" oID="MARKER 00 A" role="measured" timeStamp="2026-02-09T11:55:10.19">10.336188 -1.281209 -0.705194</CgPoint>
+<CgPoint name="REFL 2" oID="REFL 2" role="measured" timeStamp="2026-02-09T11:51:15.42">10.281517 -1.689610 -0.733682</CgPoint>
+<CgPoint name="REFL 1" oID="REFL 1" role="measured" timeStamp="2026-02-09T11:50:11.93">11.102066 2.710359 -0.727349</CgPoint>
+<CgPoint name="PRISM OLIVIER" oID="PRISM OLIVIER" role="measured" timeStamp="2026-02-09T11:48:32.90">-1.173086 -5.318975 -0.777963</CgPoint>
+<CgPoint name="PRISM PLANT" oID="PRISM PLANT" role="measured" timeStamp="2026-02-09T11:47:26.01">5.543240 3.594455 -0.784704</CgPoint>
+<CgPoint name="POSE3" oID="POSE3" timeStamp="2026-02-09T11:44:45.08">5.498624 -4.839107 -0.827611</CgPoint>
+</CgPoints>
+<Survey>
+<SurveyHeader name="GTE ROBOTS_0"/>
+<Equipment>
+<InstrumentDetails id="TPS_3" manufacturer="Leica Geosystems AG" model="MS60 1&quot; R2000" serialNumber="887366" horizCollimation="0.000151258974980" vertCollimation="-0.000844178977260">
+<Corrections>
+</Corrections>
+</InstrumentDetails>
+</Equipment>
+<InstrumentSetup id="TPSSetupID_3_2" instrumentDetailsID="TPS_3" stationName="POSE3" instrumentHeight="1.363200" orientationAzimuth="0.000000000000000">
+<InstrumentPoint pntRef="POSE3" timeStamp="2026-02-09T11:44:45.30">5.498624 -4.839107 -0.827611</InstrumentPoint>
+</InstrumentSetup>
+<InstrumentSetup id="TPSSetupID_3_4" instrumentDetailsID="TPS_3" stationName="POS2" instrumentHeight="1.370400" orientationAzimuth="0.000000000000000">
+<InstrumentPoint pntRef="POS2" timeStamp="2026-02-09T12:50:12.62">8.981630 -6.070325 -0.846931</InstrumentPoint>
+</InstrumentSetup>
+<InstrumentSetup id="TPSSetupID_3_5" instrumentDetailsID="TPS_3" stationName="POSE 3" instrumentHeight="1.366600" orientationAzimuth="0.000000000000000">
+<InstrumentPoint pntRef="POSE 3" timeStamp="2026-02-09T13:15:13.79">4.816719 -6.376036 -0.843759</InstrumentPoint>
+</InstrumentSetup>
+<InstrumentSetup id="TPSSetupID_3_6" instrumentDetailsID="TPS_3" stationName="POSE4" instrumentHeight="1.372300" orientationAzimuth="0.000000000000000">
+<InstrumentPoint pntRef="POSE4" timeStamp="2026-02-09T13:59:32.66">6.288231 0.936908 -0.851572</InstrumentPoint>
+</InstrumentSetup>
+<ObservationGroup id="oTPSSetupID_3_2">
+<TargetPoint name="POSE3" pntRef="POSE3" >5.498624 -4.839107 -0.827611</TargetPoint>
+<RawObservation setupID="TPSSetupID_3_2" purpose="normal" targetHeight="0.000000" horizAngle="99.663212858101716" zenithAngle="109.886080782099850" horizDistance="8.433680" slopeDistance="8.536400" directFace="true" timeStamp="2026-02-09T11:47:25.93">
+<TargetPoint name="PRISM PLANT" pntRef="PRISM PLANT" >5.543240 3.594455 -0.784704</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_3_2" purpose="normal" targetHeight="0.000000" horizAngle="204.571065798963840" zenithAngle="112.344658552416920" horizDistance="6.688945" slopeDistance="6.816700" directFace="true" timeStamp="2026-02-09T11:48:32.82">
+<TargetPoint name="PRISM OLIVIER" pntRef="PRISM OLIVIER" >-1.173086 -5.318975 -0.777963</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_3_2" purpose="normal" targetHeight="0.000000" horizAngle="59.351200028729480" zenithAngle="108.500867494059190" horizDistance="9.401755" slopeDistance="9.486200" directFace="true" timeStamp="2026-02-09T11:50:11.84">
+<TargetPoint name="REFL 1" pntRef="REFL 1" >11.102066 2.710359 -0.727349</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_3_2" purpose="normal" targetHeight="0.000000" horizAngle="37.071759941922991" zenithAngle="113.885590092593180" horizDistance="5.726726" slopeDistance="5.865700" directFace="true" timeStamp="2026-02-09T11:51:15.35">
+<TargetPoint name="REFL 2" pntRef="REFL 2" >10.281517 -1.689610 -0.733682</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_3_2" purpose="normal" targetHeight="0.000000" horizAngle="40.370530865551913" zenithAngle="112.971520125866310" horizDistance="6.005053" slopeDistance="6.131900" directFace="true" timeStamp="2026-02-09T11:55:10.06">
+<TargetPoint name="MARKER 00 A" pntRef="MARKER 00 A" >10.336188 -1.281209 -0.705194</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_3_2" purpose="normal" targetHeight="0.000000" horizAngle="41.750488745566877" zenithAngle="110.863928246508310" horizDistance="6.134580" slopeDistance="6.225000" directFace="true" timeStamp="2026-02-09T11:55:58.13">
+<TargetPoint name="MARKER 00 B" pntRef="MARKER 00 B" >10.360592 -1.098207 -0.521558</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_3_2" purpose="normal" targetHeight="0.000000" horizAngle="69.301804206507711" zenithAngle="109.105570975141380" horizDistance="8.316701" slopeDistance="8.402500" directFace="true" timeStamp="2026-02-09T11:57:43.54">
+<TargetPoint name="MARKER 10 A" pntRef="MARKER 10 A" >9.355368 2.529273 -0.662122</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_3_2" purpose="normal" targetHeight="0.000000" horizAngle="70.613407771479544" zenithAngle="107.747429400314590" horizDistance="8.255788" slopeDistance="8.317300" directFace="true" timeStamp="2026-02-09T11:58:23.40">
+<TargetPoint name="MARKER 10 B" pntRef="MARKER 10 B" >9.175623 2.552625 -0.474095</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_3_2" purpose="normal" targetHeight="0.000000" horizAngle="88.356348132653991" zenithAngle="109.385233487769130" horizDistance="8.386238" slopeDistance="8.478200" directFace="true" timeStamp="2026-02-09T12:00:00.53">
+<TargetPoint name="MARKER 12 A" pntRef="MARKER 12 A" >7.023913 3.407254 -0.709765</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_3_2" purpose="normal" targetHeight="0.000000" horizAngle="89.766041514351031" zenithAngle="108.003477631870280" horizDistance="8.382321" slopeDistance="8.449000" directFace="true" timeStamp="2026-02-09T12:00:45.46">
+<TargetPoint name="MARKER 12 B" pntRef="MARKER 12 B" >6.840325 3.435138 -0.523805</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_3_2" purpose="normal" targetHeight="0.000000" horizAngle="104.867234793285280" zenithAngle="114.437874861040360" horizDistance="5.498502" slopeDistance="5.643000" directFace="true" timeStamp="2026-02-09T12:02:17.11">
+<TargetPoint name="MARKER 17 A" pntRef="MARKER 17 A" >5.078649 0.643333 -0.733240</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_3_2" purpose="normal" targetHeight="0.000000" horizAngle="106.968142600565740" zenithAngle="112.296265408108230" horizDistance="5.537478" slopeDistance="5.642400" directFace="true" timeStamp="2026-02-09T12:03:18.71">
+<TargetPoint name="MARKER 17 B" pntRef="MARKER 17 B" >4.893727 0.665233 -0.547471</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_3_2" purpose="normal" targetHeight="0.000000" horizAngle="101.737329043919660" zenithAngle="95.541892172596306" horizDistance="8.361555" slopeDistance="8.382100" directFace="true" timeStamp="2026-02-09T12:05:56.71">
+<TargetPoint name="WCH R" pntRef="WCH R" >5.270466 3.519335 1.122094</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_3_2" purpose="normal" targetHeight="0.000000" horizAngle="54.294767873869432" zenithAngle="93.770922053089663" horizDistance="10.196991" slopeDistance="10.246000" directFace="true" timeStamp="2026-02-09T12:07:08.86">
+<TargetPoint name="WCH L" pntRef="WCH L" >12.206527 2.840910 1.536528</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_3_2" purpose="normal" targetHeight="0.000000" horizAngle="382.165545237092830" zenithAngle="108.038510678217820" horizDistance="9.799062" slopeDistance="9.877700" directFace="true" timeStamp="2026-02-09T12:08:49.20">
+<TargetPoint name="MARKER 03 A" pntRef="MARKER 03 A" >14.915679 -7.548480 -0.708337</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_3_2" purpose="normal" targetHeight="0.000000" horizAngle="383.358167790448310" zenithAngle="106.881362641300740" horizDistance="9.768455" slopeDistance="9.825800" directFace="true" timeStamp="2026-02-09T12:09:24.33">
+<TargetPoint name="MARKER 03 B" pntRef="MARKER 03 B" >14.935213 -7.363688 -0.524430</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_3_2" purpose="normal" targetHeight="0.000000" horizAngle="358.178428878442500" zenithAngle="121.492833367407580" horizDistance="2.536733" slopeDistance="2.688500" directFace="true" timeStamp="2026-02-09T12:15:35.27">
+<TargetPoint name="MARKER 16 B" pntRef="MARKER 16 B" >7.507386 -6.388265 -0.354927</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_3_2" purpose="normal" targetHeight="0.000000" horizAngle="272.557066682942950" zenithAngle="130.340530713050900" horizDistance="2.381889" slopeDistance="2.680600" directFace="true" timeStamp="2026-02-09T12:33:43.86">
+<TargetPoint name="MARKER 05 A" pntRef="MARKER 05 A" >4.503362 -7.003096 -0.694136</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_3_2" purpose="normal" targetHeight="0.000000" horizAngle="277.448809112096970" zenithAngle="126.767943287195370" horizDistance="2.333274" slopeDistance="2.555900" directFace="true" timeStamp="2026-02-09T12:34:20.94">
+<TargetPoint name="MARKER 05 B" pntRef="MARKER 05 B" >4.689278 -7.027515 -0.507702</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_3_2" purpose="normal" targetHeight="0.000000" horizAngle="225.003742359967670" zenithAngle="116.082457687636960" horizDistance="4.768586" slopeDistance="4.924900" directFace="true" timeStamp="2026-02-09T12:35:08.47">
+<TargetPoint name="MARKER 06 A" pntRef="MARKER 06 A" >1.093133 -6.664225 -0.695360</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_3_2" purpose="normal" targetHeight="0.000000" horizAngle="226.267671565422490" zenithAngle="114.246586543145630" horizDistance="4.603475" slopeDistance="4.721200" directFace="true" timeStamp="2026-02-09T12:35:37.91">
+<TargetPoint name="MARKER 06 B" pntRef="MARKER 06 B" >1.281488 -6.685115 -0.512146</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_3_2" purpose="normal" targetHeight="0.000000" horizAngle="201.739910837577780" zenithAngle="111.605191673621460" horizDistance="6.643172" slopeDistance="6.755100" directFace="true" timeStamp="2026-02-09T12:36:25.79">
+<TargetPoint name="MARKER 07 A" pntRef="MARKER 07 A" >-1.142067 -5.020646 -0.689013</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_3_2" purpose="normal" targetHeight="0.000000" horizAngle="203.518844113078700" zenithAngle="109.855979951446460" horizDistance="6.672530" slopeDistance="6.753300" directFace="true" timeStamp="2026-02-09T12:36:56.94">
+<TargetPoint name="MARKER 07 B" pntRef="MARKER 07 B" >-1.163715 -5.207736 -0.505765</TargetPoint>
+</RawObservation>
+</ObservationGroup>
+<ObservationGroup id="oTPSSetupID_3_4">
+<TargetPoint name="POS2" pntRef="POS2" >8.981630 -6.070325 -0.846931</TargetPoint>
+<Backsight azimuth="195.270630069847580" targetHeight="0.000000" circle="195.270630069847580" setupID="TPSSetupID_3_4">
+<BacksightPoint name="PRISM OLIVIER" pntRef="PRISM OLIVIER" >-1.173086 -5.318975 -0.777963</BacksightPoint>
+</Backsight>
+<RawObservation setupID="TPSSetupID_3_4" purpose="resection" targetHeight="0.000000" horizAngle="195.270630069847580" zenithAngle="108.086205997581730" horizDistance="10.179332" slopeDistance="10.262000" directFace="true" timeStamp="2026-02-09T12:46:53.41">
+<TargetPoint name="PRISM OLIVIER" pntRef="PRISM OLIVIER@62" >-1.169626 -5.314810 -0.776478</TargetPoint>
+</RawObservation>
+<Backsight azimuth="121.795311359345260" targetHeight="0.000000" circle="121.795311359345260" setupID="TPSSetupID_3_4">
+<BacksightPoint name="PRISM PLANT" pntRef="PRISM PLANT" >5.543240 3.594455 -0.784704</BacksightPoint>
+</Backsight>
+<RawObservation setupID="TPSSetupID_3_4" purpose="resection" targetHeight="0.000000" horizAngle="121.795311359345260" zenithAngle="108.087757040589070" horizDistance="10.256275" slopeDistance="10.339600" directFace="true" timeStamp="2026-02-09T12:47:52.96">
+<TargetPoint name="PRISM PLANT" pntRef="PRISM PLANT@63" >5.538486 3.590728 -0.786558</TargetPoint>
+</RawObservation>
+<Backsight azimuth="84.909226797121391" targetHeight="0.000000" circle="84.909226797121391" setupID="TPSSetupID_3_4">
+<BacksightPoint name="REFL 1" pntRef="REFL 1" >11.102066 2.710359 -0.727349</BacksightPoint>
+</Backsight>
+<RawObservation setupID="TPSSetupID_3_4" purpose="resection" targetHeight="0.000000" horizAngle="84.909226797121391" zenithAngle="108.759372422808340" horizDistance="9.032819" slopeDistance="9.119000" directFace="true" timeStamp="2026-02-09T12:49:03.83">
+<TargetPoint name="REFL 1" pntRef="REFL 1@64" >11.102821 2.709902 -0.727270</TargetPoint>
+</RawObservation>
+<Backsight azimuth="123.503189719305820" targetHeight="0.000000" circle="123.503189719305820" setupID="TPSSetupID_3_4">
+<BacksightPoint name="WCH R" pntRef="WCH R" >5.270466 3.519335 1.122094</BacksightPoint>
+</Backsight>
+<RawObservation setupID="TPSSetupID_3_4" purpose="resection" targetHeight="0.000000" horizAngle="123.503189719305820" zenithAngle="96.298757409401162" horizDistance="10.282397" slopeDistance="10.299800" directFace="true" timeStamp="2026-02-09T12:49:49.76">
+<TargetPoint name="WCH R" pntRef="WCH R@65" >5.271150 3.519254 1.121959</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_3_4" purpose="normal" targetHeight="0.000000" horizAngle="37.442319716263903" zenithAngle="139.604906929250660" horizDistance="1.713390" slopeDistance="2.108400" directFace="true" timeStamp="2026-02-09T12:51:36.44">
+<TargetPoint name="MARKER 04 A" pntRef="MARKER 04 A" >10.407124 -5.119707 -0.705207</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_3_4" purpose="normal" targetHeight="0.000000" horizAngle="42.370539804608462" zenithAngle="137.096504758566480" horizDistance="1.579187" slopeDistance="1.891300" directFace="true" timeStamp="2026-02-09T12:52:17.63">
+<TargetPoint name="MARKER 04 B" pntRef="MARKER 04 B" >10.223778 -5.095184 -0.517292</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_3_4" purpose="normal" targetHeight="0.000000" horizAngle="364.791880629817060" zenithAngle="118.333558275674870" horizDistance="4.142577" slopeDistance="4.320500" directFace="true" timeStamp="2026-02-09T12:53:10.02">
+<TargetPoint name="MARKER 02 A" pntRef="MARKER 02 A" >12.506663 -8.246351 -0.703632</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_3_4" purpose="normal" targetHeight="0.000000" horizAngle="366.025978950107910" zenithAngle="115.105268174898240" horizDistance="4.311424" slopeDistance="4.435700" directFace="true" timeStamp="2026-02-09T12:53:35.89">
+<TargetPoint name="MARKER 02 B" pntRef="MARKER 02 B" >12.693549 -8.263503 -0.519154</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_3_4" purpose="normal" targetHeight="0.000000" horizAngle="298.470497961200180" zenithAngle="142.527774418152690" horizDistance="1.524247" slopeDistance="1.941600" directFace="true" timeStamp="2026-02-09T12:54:45.93">
+<TargetPoint name="MARKER 01 A" pntRef="MARKER 01 A" >8.945013 -7.594132 -0.679228</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_3_4" purpose="normal" targetHeight="0.000000" horizAngle="306.090314182953530" zenithAngle="136.826694719361910" horizDistance="1.556539" slopeDistance="1.859000" directFace="true" timeStamp="2026-02-09T12:55:25.29">
+<TargetPoint name="MARKER 01 B" pntRef="MARKER 01 B" >9.130312 -7.619746 -0.492930</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_3_4" purpose="normal" targetHeight="0.000000" horizAngle="205.290865928005500" zenithAngle="126.207850830581250" horizDistance="2.270055" slopeDistance="2.477000" directFace="true" timeStamp="2026-02-09T12:56:29.78">
+<TargetPoint name="MARKER 15 A" pntRef="MARKER 15 A" >6.719411 -6.258769 -0.467682</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_3_4" purpose="normal" targetHeight="0.000000" horizAngle="210.377048063216250" zenithAngle="121.363223415567190" horizDistance="2.311361" slopeDistance="2.447900" directFace="true" timeStamp="2026-02-09T12:57:05.33">
+<TargetPoint name="MARKER 15 B" pntRef="MARKER 15 B" >6.700907 -6.445416 -0.282648</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_3_4" purpose="normal" targetHeight="0.000000" horizAngle="144.088663353116060" zenithAngle="111.227517308081930" horizDistance="6.572250" slopeDistance="6.675800" directFace="true" timeStamp="2026-02-09T12:58:47.12">
+<TargetPoint name="MARKER 09 A" pntRef="MARKER 09 A" >4.785272 -1.012158 -0.647788</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_3_4" purpose="normal" targetHeight="0.000000" horizAngle="145.384954464026350" zenithAngle="109.657412253094890" horizDistance="6.441368" slopeDistance="6.516200" directFace="true" timeStamp="2026-02-09T12:59:22.89">
+<TargetPoint name="MARKER 09 B" pntRef="MARKER 09 B" >4.768755 -1.197655 -0.461237</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_3_4" purpose="normal" targetHeight="0.000000" horizAngle="129.721486584249760" zenithAngle="106.826918772024360" horizDistance="11.293056" slopeDistance="11.358300" directFace="true" timeStamp="2026-02-09T13:00:10.36">
+<TargetPoint name="MARKER 13 A" pntRef="MARKER 13 A" >3.898760 4.014195 -0.692219</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_3_4" purpose="normal" targetHeight="0.000000" horizAngle="130.584989445156370" zenithAngle="105.753621626466800" horizDistance="11.397395" slopeDistance="11.444100" directFace="true" timeStamp="2026-02-09T13:00:56.28">
+<TargetPoint name="MARKER 13 B" pntRef="MARKER 13 B" >3.714225 4.036854 -0.509405</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_3_4" purpose="normal" targetHeight="0.000000" horizAngle="322.234526387336870" zenithAngle="140.709421925338940" horizDistance="1.648325" slopeDistance="2.054200" directFace="true" timeStamp="2026-02-09T13:01:56.77">
+<TargetPoint name="REFL 3" pntRef="REFL 3" >9.545690 -7.619134 -0.702403</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_3_4" purpose="normal" targetHeight="0.000000" horizAngle="322.694458358749900" zenithAngle="70.126031160795094" horizDistance="1.649575" slopeDistance="1.849500" directFace="true" timeStamp="2026-02-09T13:02:52.49">
+<TargetPoint name="SCREW L" pntRef="SCREW L@95" >9.557301 -7.616191 1.359861</TargetPoint>
+</RawObservation>
+</ObservationGroup>
+<ObservationGroup id="oTPSSetupID_3_5">
+<TargetPoint name="POSE 3" pntRef="POSE 3" >4.816719 -6.376036 -0.843759</TargetPoint>
+<Backsight azimuth="188.857886068086910" targetHeight="0.000000" circle="188.857886068086910" setupID="TPSSetupID_3_5">
+<BacksightPoint name="PRISM OLIVIER" pntRef="PRISM OLIVIER@62" >-1.169626 -5.314810 -0.776478</BacksightPoint>
+</Backsight>
+<RawObservation setupID="TPSSetupID_3_5" purpose="resection" targetHeight="0.000000" horizAngle="188.857886068086910" zenithAngle="113.415968981880540" horizDistance="6.080831" slopeDistance="6.218400" directFace="true" timeStamp="2026-02-09T13:11:45.43">
+<TargetPoint name="PRISM OLIVIER" pntRef="PRISM OLIVIER@98" >-1.171215 -5.317194 -0.777929</TargetPoint>
+</RawObservation>
+<Backsight azimuth="95.370394932924341" targetHeight="0.000000" circle="95.370394932924341" setupID="TPSSetupID_3_5">
+<BacksightPoint name="PRISM PLANT" pntRef="PRISM PLANT@63" >5.538486 3.590728 -0.786558</BacksightPoint>
+</Backsight>
+<RawObservation setupID="TPSSetupID_3_5" purpose="resection" targetHeight="0.000000" horizAngle="95.370394932924341" zenithAngle="108.291564844743180" horizDistance="9.995520" slopeDistance="10.080900" directFace="true" timeStamp="2026-02-09T13:12:52.34">
+<TargetPoint name="PRISM PLANT" pntRef="PRISM PLANT@99" >5.542969 3.593065 -0.786416</TargetPoint>
+</RawObservation>
+<Backsight azimuth="61.475267294693843" targetHeight="0.000000" circle="61.475267294693843" setupID="TPSSetupID_3_5">
+<BacksightPoint name="REFL 1" pntRef="REFL 1@64" >11.102821 2.709902 -0.727270</BacksightPoint>
+</Backsight>
+<RawObservation setupID="TPSSetupID_3_5" purpose="resection" targetHeight="0.000000" horizAngle="61.475267294693843" zenithAngle="107.163919544543150" horizDistance="11.047284" slopeDistance="11.117600" directFace="true" timeStamp="2026-02-09T13:13:49.57">
+<TargetPoint name="REFL 1" pntRef="REFL 1@100" >11.101314 2.709467 -0.725582</TargetPoint>
+</RawObservation>
+<Backsight azimuth="45.128074081202321" targetHeight="0.000000" circle="45.128074081202321" setupID="TPSSetupID_3_5">
+<BacksightPoint name="REFL 2" pntRef="REFL 2" >10.281517 -1.689610 -0.733682</BacksightPoint>
+</Backsight>
+<RawObservation setupID="TPSSetupID_3_5" purpose="resection" targetHeight="0.000000" horizAngle="45.128074081202321" zenithAngle="111.000230757758980" horizDistance="7.198979" slopeDistance="7.307800" directFace="true" timeStamp="2026-02-09T13:14:53.95">
+<TargetPoint name="REFL 2" pntRef="REFL 2@101" >10.281449 -1.689670 -0.733605</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_3_5" purpose="normal" targetHeight="0.000000" horizAngle="123.296575717526860" zenithAngle="130.976807387716660" horizDistance="2.292842" slopeDistance="2.593900" directFace="true" timeStamp="2026-02-09T13:16:17.42">
+<TargetPoint name="MARKER 08 A" pntRef="MARKER 08 A" >3.996274 -4.235009 -0.690087</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_3_5" purpose="normal" targetHeight="0.000000" horizAngle="127.613211081012980" zenithAngle="125.789141926715350" horizDistance="2.387639" slopeDistance="2.597900" directFace="true" timeStamp="2026-02-09T13:16:50.78">
+<TargetPoint name="MARKER 08 B" pntRef="MARKER 08 B" >3.813256 -4.209499 -0.501007</TargetPoint>
+</RawObservation>
+</ObservationGroup>
+<ObservationGroup id="oTPSSetupID_3_6">
+<TargetPoint name="POSE4" pntRef="POSE4" >6.288231 0.936908 -0.851572</TargetPoint>
+<Backsight azimuth="117.426669647732890" targetHeight="0.000000" circle="117.426669647732890" setupID="TPSSetupID_3_6">
+<BacksightPoint name="PRISM PLANT" pntRef="PRISM PLANT@99" >5.542969 3.593065 -0.786416</BacksightPoint>
+</Backsight>
+<RawObservation setupID="TPSSetupID_3_6" purpose="resection" targetHeight="0.000000" horizAngle="117.426669647732890" zenithAngle="128.223542032136690" horizDistance="2.758850" slopeDistance="3.054100" directFace="true" timeStamp="2026-02-09T13:56:39.08">
+<TargetPoint name="PRISM PLANT" pntRef="PRISM PLANT@108" >5.542427 3.593038 -0.789340</TargetPoint>
+</RawObservation>
+<Backsight azimuth="362.962745256492500" targetHeight="0.000000" circle="362.962745256492500" setupID="TPSSetupID_3_6">
+<BacksightPoint name="REFL 2" pntRef="REFL 2@101" >10.281449 -1.689670 -0.733605</BacksightPoint>
+</Backsight>
+<RawObservation setupID="TPSSetupID_3_6" purpose="resection" targetHeight="0.000000" horizAngle="362.962745256492500" zenithAngle="116.313062264906110" horizDistance="4.782475" slopeDistance="4.943900" directFace="true" timeStamp="2026-02-09T13:57:51.82">
+<TargetPoint name="REFL 2" pntRef="REFL 2@109" >10.283922 -1.691118 -0.732302</TargetPoint>
+</RawObservation>
+<Backsight azimuth="323.160907607370400" targetHeight="0.000000" circle="323.160907607370400" setupID="TPSSetupID_3_6">
+<BacksightPoint name="REFL 3" pntRef="REFL 3" >9.545690 -7.619134 -0.702403</BacksightPoint>
+</Backsight>
+<RawObservation setupID="TPSSetupID_3_6" purpose="resection" targetHeight="0.000000" horizAngle="323.160907607370400" zenithAngle="108.439419719538140" horizDistance="9.154568" slopeDistance="9.235600" directFace="true" timeStamp="2026-02-09T13:58:55.94">
+<TargetPoint name="REFL 3" pntRef="REFL 3@110" >9.545775 -7.618472 -0.700011</TargetPoint>
+</RawObservation>
+<Backsight azimuth="323.236579801715660" targetHeight="0.000000" circle="323.236579801715660" setupID="TPSSetupID_3_6">
+<BacksightPoint name="SCREW L" pntRef="SCREW L@95" >9.557301 -7.616191 1.359861</BacksightPoint>
+</Backsight>
+<RawObservation setupID="TPSSetupID_3_6" purpose="resection" targetHeight="0.000000" horizAngle="323.236579801715660" zenithAngle="94.174453902308628" horizDistance="9.153839" slopeDistance="9.192300" directFace="true" timeStamp="2026-02-09T13:59:13.01">
+<TargetPoint name="SCREW L" pntRef="SCREW L@111" >9.555682 -7.613913 1.360724</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_3_6" purpose="normal" targetHeight="0.000000" horizAngle="281.309070415399560" zenithAngle="93.383111498330720" horizDistance="8.124516" slopeDistance="8.168600" directFace="true" timeStamp="2026-02-09T14:01:41.51">
+<TargetPoint name="SCREW L" pntRef="SCREW L@114" >3.937024 -6.839954 1.368231</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_3_6" purpose="normal" targetHeight="0.000000" horizAngle="281.309202825961390" zenithAngle="93.383051311271203" horizDistance="8.124515" slopeDistance="8.168600" directFace="true" timeStamp="2026-02-09T14:02:14.00">
+<TargetPoint name="SCREW L" pntRef="SCREW L@118" >3.937040 -6.839958 1.368239</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_3_6" purpose="normal" targetHeight="0.000000" horizAngle="358.690379247188280" zenithAngle="106.396284950925050" horizDistance="6.691683" slopeDistance="6.725600" directFace="true" timeStamp="2026-02-09T14:03:38.32">
+<TargetPoint name="MARKER 14 A" pntRef="MARKER 14 A" >11.619863 -3.106891 -0.153871</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_3_6" purpose="normal" targetHeight="0.000000" horizAngle="360.265708214865410" zenithAngle="104.738058431616420" horizDistance="6.597586" slopeDistance="6.615900" directFace="true" timeStamp="2026-02-09T14:04:22.75">
+<TargetPoint name="MARKER 14 B" pntRef="MARKER 14 B" >11.641929 -2.918744 0.028795</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_3_6" purpose="normal" targetHeight="0.000000" horizAngle="389.632739260540180" zenithAngle="116.814490900474180" horizDistance="4.523597" slopeDistance="4.686100" directFace="true" timeStamp="2026-02-09T14:05:25.13">
+<TargetPoint name="MARKER 11 A" pntRef="MARKER 11 A" >10.751979 0.203499 -0.702630</TargetPoint>
+</RawObservation>
+<RawObservation setupID="TPSSetupID_3_6" purpose="normal" targetHeight="0.000000" horizAngle="392.287018575503450" zenithAngle="114.379823109455070" horizDistance="4.520381" slopeDistance="4.638200" directFace="true" timeStamp="2026-02-09T14:06:10.54">
+<TargetPoint name="MARKER 11 B" pntRef="MARKER 11 B" >10.775476 0.390579 -0.518051</TargetPoint>
+</RawObservation>
+</ObservationGroup>
+</Survey>
+<HexagonLandXML xmlns="http://xml.hexagon.com/schema/HeXML-2.0" xsi:schemaLocation="http://xml.hexagon.com/schema/HeXML-2.0 http://xml.hexagon.com/schema/HeXML-2.0.xsd" xmlns:landxml="http://www.landxml.org/schema/LandXML-1.2" averagingMode="None" averagingMethod="Weighted" averagingPosLimit="0.050000" averagingHgtLimit="0.075000">
+<CoordinateSystem name="None">
+<Ellipsoid name="None" SemiMajorAxis="0.000000" ReciprocFlattening="270.000000"/>
+</CoordinateSystem>
+<Point uniqueID="MARKER 11 B" class="measured" subclass="TPS" averageUsage="true" applicationNumber="10" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="0.390579" n="10.775476" hghthO="-0.518051">
+<CoordinateQuality Qxx="0.000008" Qxy="-0.000001" Qxz="-0.000002" Qyy="0.000000" Qyz="0.000000" Qzz="0.000000" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000008" Qxy="-0.000001" Qxz="-0.000002" Qyy="0.000000" Qyz="0.000000" Qzz="0.000000" MeanError="1.000000" CQ3D="0.003010" CQPos="0.002933" CQHeight="0.000675"/>
+</Point>
+<Point uniqueID="MARKER 11 A" class="measured" subclass="TPS" averageUsage="true" applicationNumber="10" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="0.203499" n="10.751979" hghthO="-0.702630">
+<CoordinateQuality Qxx="0.000008" Qxy="-0.000001" Qxz="-0.000002" Qyy="0.000000" Qyz="0.000000" Qzz="0.000001" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000008" Qxy="-0.000001" Qxz="-0.000002" Qyy="0.000000" Qyz="0.000000" Qzz="0.000001" MeanError="1.000000" CQ3D="0.003010" CQPos="0.002905" CQHeight="0.000786"/>
+</Point>
+<Point uniqueID="MARKER 14 B" class="measured" subclass="TPS" averageUsage="true" applicationNumber="10" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="-2.918744" n="11.641929" hghthO="0.028795">
+<CoordinateQuality Qxx="0.000006" Qxy="-0.000004" Qxz="-0.000001" Qyy="0.000003" Qyz="0.000000" Qzz="0.000000" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000006" Qxy="-0.000004" Qxz="-0.000001" Qyy="0.000003" Qyz="0.000000" Qzz="0.000000" MeanError="1.000000" CQ3D="0.003014" CQPos="0.003005" CQHeight="0.000228"/>
+</Point>
+<Point uniqueID="MARKER 14 A" class="measured" subclass="TPS" averageUsage="true" applicationNumber="10" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="-3.106891" n="11.619863" hghthO="-0.153871">
+<CoordinateQuality Qxx="0.000006" Qxy="-0.000004" Qxz="-0.000001" Qyy="0.000003" Qyz="0.000001" Qzz="0.000000" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000006" Qxy="-0.000004" Qxz="-0.000001" Qyy="0.000003" Qyz="0.000001" Qzz="0.000000" MeanError="1.000000" CQ3D="0.003014" CQPos="0.002999" CQHeight="0.000306"/>
+</Point>
+<Point uniqueID="SCREW L@118" class="measured" subclass="TPS" averageUsage="true" averageState="AvgStateOK" applicationNumber="10" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="-6.839958" n="3.937040" hghthO="1.368239">
+<CoordinateQuality Qxx="0.000001" Qxy="0.000002" Qxz="0.000000" Qyy="0.000008" Qyz="-0.000001" Qzz="0.000000" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000001" Qxy="0.000002" Qxz="0.000000" Qyy="0.000008" Qyz="-0.000001" Qzz="0.000000" MeanError="1.000000" CQ3D="0.003017" CQPos="0.003001" CQHeight="0.000318"/>
+</Point>
+<Point uniqueID="SCREW L" class="averaged" subclass="none" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="-6.839956" n="3.937032" hghthO="1.368235">
+<CoordinateQuality Qxx="2.339492" Qxy="0.000000" Qxz="0.000000" Qyy="0.147759" Qyz="0.000000" Qzz="0.512749" MeanError="0.000005"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="2.339492" Qxy="0.000000" Qxz="0.000000" Qyy="0.147759" Qyz="0.000000" Qzz="0.512749" MeanError="0.000005" CQ3D="0.000009" CQPos="0.000008" CQHeight="0.000004"/>
+</Point>
+<Point uniqueID="SCREW L@114" class="measured" subclass="TPS" averageUsage="true" averageState="AvgStateOK" applicationNumber="10" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="-6.839954" n="3.937024" hghthO="1.368231">
+<CoordinateQuality Qxx="0.000001" Qxy="0.000002" Qxz="0.000000" Qyy="0.000008" Qyz="-0.000001" Qzz="0.000000" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000001" Qxy="0.000002" Qxz="0.000000" Qyy="0.000008" Qyz="-0.000001" Qzz="0.000000" MeanError="1.000000" CQ3D="0.003017" CQPos="0.003001" CQHeight="0.000318"/>
+</Point>
+<Point uniqueID="POSE4" class="reference" subclass="TPS" applicationNumber="9" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="0.936908" n="6.288231" hghthO="-0.851572">
+<CoordinateQuality Qxx="0.000002" Qxy="0.000000" Qxz="0.000000" Qyy="0.000001" Qyz="0.000000" Qzz="0.000002" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000002" Qxy="0.000000" Qxz="0.000000" Qyy="0.000001" Qyz="0.000000" Qzz="0.000002" MeanError="1.000000" CQ3D="0.002289" CQPos="0.001659" CQHeight="0.001577"/>
+</Point>
+<Point uniqueID="SCREW L@111" class="measured" subclass="TPS" averageUsage="false" applicationNumber="9" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="-7.613913" n="9.555682" hghthO="1.360724">
+<CoordinateQuality Qxx="0.000001" Qxy="-0.000003" Qxz="0.000000" Qyy="0.000008" Qyz="0.000001" Qzz="0.000000" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000001" Qxy="-0.000003" Qxz="0.000000" Qyy="0.000008" Qyz="0.000001" Qzz="0.000000" MeanError="1.000000" CQ3D="0.003020" CQPos="0.003006" CQHeight="0.000282"/>
+</Point>
+<Point uniqueID="REFL 3@110" class="measured" subclass="TPS" averageUsage="false" applicationNumber="9" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="-7.618472" n="9.545775" hghthO="-0.700011">
+<CoordinateQuality Qxx="0.000001" Qxy="-0.000003" Qxz="0.000000" Qyy="0.000008" Qyz="-0.000001" Qzz="0.000000" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000001" Qxy="-0.000003" Qxz="0.000000" Qyy="0.000008" Qyz="-0.000001" Qzz="0.000000" MeanError="1.000000" CQ3D="0.003020" CQPos="0.002993" CQHeight="0.000404"/>
+</Point>
+<Point uniqueID="REFL 2@109" class="measured" subclass="TPS" averageUsage="false" applicationNumber="9" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="-1.691118" n="10.283922" hghthO="-0.732302">
+<CoordinateQuality Qxx="0.000005" Qxy="-0.000004" Qxz="0.000002" Qyy="0.000003" Qyz="-0.000001" Qzz="0.000001" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000005" Qxy="-0.000004" Qxz="0.000002" Qyy="0.000003" Qyz="-0.000001" Qzz="0.000001" MeanError="1.000000" CQ3D="0.003010" CQPos="0.002912" CQHeight="0.000764"/>
+</Point>
+<Point uniqueID="PRISM PLANT@108" class="measured" subclass="TPS" averageUsage="false" applicationNumber="9" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="3.593038" n="5.542427" hghthO="-0.789340">
+<CoordinateQuality Qxx="0.000000" Qxy="-0.000001" Qxz="-0.000001" Qyy="0.000007" Qyz="0.000003" Qzz="0.000002" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000000" Qxy="-0.000001" Qxz="-0.000001" Qyy="0.000007" Qyz="0.000003" Qzz="0.000002" MeanError="1.000000" CQ3D="0.003006" CQPos="0.002716" CQHeight="0.001290"/>
+</Point>
+<Point uniqueID="MARKER 08 B" class="measured" subclass="TPS" averageUsage="true" applicationNumber="7" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="-4.209499" n="3.813256" hghthO="-0.501007">
+<CoordinateQuality Qxx="0.000001" Qxy="-0.000003" Qxz="0.000001" Qyy="0.000006" Qyz="-0.000003" Qzz="0.000001" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000001" Qxy="-0.000003" Qxz="0.000001" Qyy="0.000006" Qyz="-0.000003" Qzz="0.000001" MeanError="1.000000" CQ3D="0.003005" CQPos="0.002762" CQHeight="0.001184"/>
+</Point>
+<Point uniqueID="MARKER 08 A" class="measured" subclass="TPS" averageUsage="true" applicationNumber="7" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="-4.235009" n="3.996274" hghthO="-0.690087">
+<CoordinateQuality Qxx="0.000001" Qxy="-0.000002" Qxz="0.000001" Qyy="0.000006" Qyz="-0.000003" Qzz="0.000002" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000001" Qxy="-0.000002" Qxz="0.000001" Qyy="0.000006" Qyz="-0.000003" Qzz="0.000002" MeanError="1.000000" CQ3D="0.003005" CQPos="0.002656" CQHeight="0.001405"/>
+</Point>
+<Point uniqueID="POSE 3" class="reference" subclass="TPS" applicationNumber="6" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="-6.376036" n="4.816719" hghthO="-0.843759">
+<CoordinateQuality Qxx="0.000001" Qxy="0.000000" Qxz="0.000000" Qyy="0.000001" Qyz="0.000000" Qzz="0.000000" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000001" Qxy="0.000000" Qxz="0.000000" Qyy="0.000001" Qyz="0.000000" Qzz="0.000000" MeanError="1.000000" CQ3D="0.001495" CQPos="0.001324" CQHeight="0.000695"/>
+</Point>
+<Point uniqueID="REFL 2@101" class="measured" subclass="TPS" averageUsage="false" applicationNumber="6" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="-1.689670" n="10.281449" hghthO="-0.733605">
+<CoordinateQuality Qxx="0.000002" Qxy="0.000004" Qxz="0.000001" Qyy="0.000007" Qyz="0.000001" Qzz="0.000000" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000002" Qxy="0.000004" Qxz="0.000001" Qyy="0.000007" Qyz="0.000001" Qzz="0.000000" MeanError="1.000000" CQ3D="0.003015" CQPos="0.002970" CQHeight="0.000521"/>
+</Point>
+<Point uniqueID="REFL 1@100" class="measured" subclass="TPS" averageUsage="false" applicationNumber="6" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="2.709467" n="11.101314" hghthO="-0.725582">
+<CoordinateQuality Qxx="0.000001" Qxy="0.000002" Qxz="0.000000" Qyy="0.000008" Qyz="0.000001" Qzz="0.000000" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000001" Qxy="0.000002" Qxz="0.000000" Qyy="0.000008" Qyz="0.000001" Qzz="0.000000" MeanError="1.000000" CQ3D="0.003024" CQPos="0.003004" CQHeight="0.000347"/>
+</Point>
+<Point uniqueID="PRISM PLANT@99" class="measured" subclass="TPS" averageUsage="false" applicationNumber="6" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="3.593065" n="5.542969" hghthO="-0.786416">
+<CoordinateQuality Qxx="0.000001" Qxy="-0.000002" Qxz="0.000000" Qyy="0.000008" Qyz="0.000001" Qzz="0.000000" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000001" Qxy="-0.000002" Qxz="0.000000" Qyy="0.000008" Qyz="0.000001" Qzz="0.000000" MeanError="1.000000" CQ3D="0.003022" CQPos="0.002995" CQHeight="0.000398"/>
+</Point>
+<Point uniqueID="PRISM OLIVIER@98" class="measured" subclass="TPS" averageUsage="false" applicationNumber="6" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="-5.317194" n="-1.171215" hghthO="-0.777929">
+<CoordinateQuality Qxx="0.000008" Qxy="0.000001" Qxz="-0.000002" Qyy="0.000000" Qyz="0.000000" Qzz="0.000000" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000008" Qxy="0.000001" Qxz="-0.000002" Qyy="0.000000" Qyz="0.000000" Qzz="0.000000" MeanError="1.000000" CQ3D="0.003013" CQPos="0.002946" CQHeight="0.000631"/>
+</Point>
+<Point uniqueID="SCREW L@95" class="measured" subclass="TPS" averageUsage="true" averageState="AvgOutPosLimit" applicationNumber="5" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="-7.616191" n="9.557301" hghthO="1.359861">
+<CoordinateQuality Qxx="0.000001" Qxy="-0.000002" Qxz="0.000001" Qyy="0.000006" Qyz="-0.000003" Qzz="0.000002" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000001" Qxy="-0.000002" Qxz="0.000001" Qyy="0.000006" Qyz="-0.000003" Qzz="0.000002" MeanError="1.000000" CQ3D="0.003004" CQPos="0.002679" CQHeight="0.001358"/>
+</Point>
+<Point uniqueID="REFL 3" class="measured" subclass="TPS" averageUsage="true" applicationNumber="5" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="-7.619134" n="9.545690" hghthO="-0.702403">
+<CoordinateQuality Qxx="0.000001" Qxy="-0.000002" Qxz="-0.000001" Qyy="0.000005" Qyz="0.000004" Qzz="0.000003" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000001" Qxy="-0.000002" Qxz="-0.000001" Qyy="0.000005" Qyz="0.000004" Qzz="0.000003" MeanError="1.000000" CQ3D="0.003004" CQPos="0.002411" CQHeight="0.001793"/>
+</Point>
+<Point uniqueID="MARKER 13 B" class="measured" subclass="TPS" averageUsage="true" applicationNumber="5" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="4.036854" n="3.714225" hghthO="-0.509405">
+<CoordinateQuality Qxx="0.000002" Qxy="-0.000004" Qxz="0.000000" Qyy="0.000007" Qyz="-0.000001" Qzz="0.000000" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000002" Qxy="-0.000004" Qxz="0.000000" Qyy="0.000007" Qyz="-0.000001" Qzz="0.000000" MeanError="1.000000" CQ3D="0.003025" CQPos="0.003012" CQHeight="0.000283"/>
+</Point>
+<Point uniqueID="MARKER 13 A" class="measured" subclass="TPS" averageUsage="true" applicationNumber="5" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="4.014195" n="3.898760" hghthO="-0.692219">
+<CoordinateQuality Qxx="0.000002" Qxy="-0.000004" Qxz="0.000000" Qyy="0.000007" Qyz="-0.000001" Qzz="0.000000" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000002" Qxy="-0.000004" Qxz="0.000000" Qyy="0.000007" Qyz="-0.000001" Qzz="0.000000" MeanError="1.000000" CQ3D="0.003025" CQPos="0.003006" CQHeight="0.000332"/>
+</Point>
+<Point uniqueID="MARKER 09 B" class="measured" subclass="TPS" averageUsage="true" applicationNumber="5" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="-1.197655" n="4.768755" hghthO="-0.461237">
+<CoordinateQuality Qxx="0.000004" Qxy="-0.000004" Qxz="0.000001" Qyy="0.000005" Qyz="-0.000001" Qzz="0.000000" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000004" Qxy="-0.000004" Qxz="0.000001" Qyy="0.000005" Qyz="-0.000001" Qzz="0.000000" MeanError="1.000000" CQ3D="0.003014" CQPos="0.002979" CQHeight="0.000457"/>
+</Point>
+<Point uniqueID="MARKER 09 A" class="measured" subclass="TPS" averageUsage="true" applicationNumber="5" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="-1.012158" n="4.785272" hghthO="-0.647788">
+<CoordinateQuality Qxx="0.000004" Qxy="-0.000004" Qxz="0.000001" Qyy="0.000005" Qyz="-0.000001" Qzz="0.000000" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000004" Qxy="-0.000004" Qxz="0.000001" Qyy="0.000005" Qyz="-0.000001" Qzz="0.000000" MeanError="1.000000" CQ3D="0.003014" CQPos="0.002967" CQHeight="0.000530"/>
+</Point>
+<Point uniqueID="MARKER 15 B" class="measured" subclass="TPS" averageUsage="true" applicationNumber="5" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="-6.445416" n="6.700907" hghthO="-0.282648">
+<CoordinateQuality Qxx="0.000008" Qxy="0.000001" Qxz="0.000003" Qyy="0.000000" Qyz="0.000000" Qzz="0.000001" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000008" Qxy="0.000001" Qxz="0.000003" Qyy="0.000000" Qyz="0.000000" Qzz="0.000001" MeanError="1.000000" CQ3D="0.003005" CQPos="0.002837" CQHeight="0.000990"/>
+</Point>
+<Point uniqueID="MARKER 15 A" class="measured" subclass="TPS" averageUsage="true" applicationNumber="5" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="-6.258769" n="6.719411" hghthO="-0.467682">
+<CoordinateQuality Qxx="0.000008" Qxy="0.000001" Qxz="0.000003" Qyy="0.000000" Qyz="0.000000" Qzz="0.000001" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000008" Qxy="0.000001" Qxz="0.000003" Qyy="0.000000" Qyz="0.000000" Qzz="0.000001" MeanError="1.000000" CQ3D="0.003005" CQPos="0.002754" CQHeight="0.001203"/>
+</Point>
+<Point uniqueID="MARKER 01 B" class="measured" subclass="TPS" averageUsage="true" applicationNumber="5" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="-7.619746" n="9.130312" hghthO="-0.492930">
+<CoordinateQuality Qxx="0.000000" Qxy="-0.000001" Qxz="0.000000" Qyy="0.000006" Qyz="0.000004" Qzz="0.000003" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000000" Qxy="-0.000001" Qxz="0.000000" Qyy="0.000006" Qyz="0.000004" Qzz="0.000003" MeanError="1.000000" CQ3D="0.003004" CQPos="0.002515" CQHeight="0.001642"/>
+</Point>
+<Point uniqueID="MARKER 01 A" class="measured" subclass="TPS" averageUsage="true" applicationNumber="5" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="-7.594132" n="8.945013" hghthO="-0.679228">
+<CoordinateQuality Qxx="0.000000" Qxy="0.000000" Qxz="0.000000" Qyy="0.000006" Qyz="0.000004" Qzz="0.000003" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000000" Qxy="0.000000" Qxz="0.000000" Qyy="0.000006" Qyz="0.000004" Qzz="0.000003" MeanError="1.000000" CQ3D="0.003004" CQPos="0.002358" CQHeight="0.001861"/>
+</Point>
+<Point uniqueID="MARKER 02 B" class="measured" subclass="TPS" averageUsage="true" applicationNumber="5" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="-8.263503" n="12.693549" hghthO="-0.519154">
+<CoordinateQuality Qxx="0.000006" Qxy="-0.000004" Qxz="-0.000002" Qyy="0.000002" Qyz="0.000001" Qzz="0.000001" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000006" Qxy="-0.000004" Qxz="-0.000002" Qyy="0.000002" Qyz="0.000001" Qzz="0.000001" MeanError="1.000000" CQ3D="0.003009" CQPos="0.002925" CQHeight="0.000708"/>
+</Point>
+<Point uniqueID="MARKER 02 A" class="measured" subclass="TPS" averageUsage="true" applicationNumber="5" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="-8.246351" n="12.506663" hghthO="-0.703632">
+<CoordinateQuality Qxx="0.000006" Qxy="-0.000004" Qxz="-0.000002" Qyy="0.000002" Qyz="0.000001" Qzz="0.000001" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000006" Qxy="-0.000004" Qxz="-0.000002" Qyy="0.000002" Qyz="0.000001" Qzz="0.000001" MeanError="1.000000" CQ3D="0.003009" CQPos="0.002885" CQHeight="0.000855"/>
+</Point>
+<Point uniqueID="MARKER 04 B" class="measured" subclass="TPS" averageUsage="true" applicationNumber="5" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="-5.095184" n="10.223778" hghthO="-0.517292">
+<CoordinateQuality Qxx="0.000004" Qxy="0.000003" Qxz="-0.000003" Qyy="0.000002" Qyz="-0.000003" Qzz="0.000003" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000004" Qxy="0.000003" Qxz="-0.000003" Qyy="0.000002" Qyz="-0.000003" Qzz="0.000003" MeanError="1.000000" CQ3D="0.003004" CQPos="0.002508" CQHeight="0.001653"/>
+</Point>
+<Point uniqueID="MARKER 04 A" class="measured" subclass="TPS" averageUsage="true" applicationNumber="5" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="-5.119707" n="10.407124" hghthO="-0.705207">
+<CoordinateQuality Qxx="0.000004" Qxy="0.000003" Qxz="-0.000004" Qyy="0.000002" Qyz="-0.000002" Qzz="0.000003" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000004" Qxy="0.000003" Qxz="-0.000004" Qyy="0.000002" Qyz="-0.000002" Qzz="0.000003" MeanError="1.000000" CQ3D="0.003004" CQPos="0.002441" CQHeight="0.001751"/>
+</Point>
+<Point uniqueID="POS2" class="reference" subclass="TPS" applicationNumber="4" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="-6.070325" n="8.981630" hghthO="-0.846931">
+<CoordinateQuality Qxx="0.000009" Qxy="0.000000" Qxz="0.000000" Qyy="0.000005" Qyz="0.000000" Qzz="0.000000" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000009" Qxy="0.000000" Qxz="0.000000" Qyy="0.000005" Qyz="0.000000" Qzz="0.000000" MeanError="1.000000" CQ3D="0.003778" CQPos="0.003715" CQHeight="0.000687"/>
+</Point>
+<Point uniqueID="WCH R@65" class="measured" subclass="TPS" averageUsage="false" applicationNumber="4" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="3.519254" n="5.271150" hghthO="1.121959">
+<CoordinateQuality Qxx="0.000004" Qxy="-0.000004" Qxz="0.000000" Qyy="0.000005" Qyz="0.000000" Qzz="0.000000" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000004" Qxy="-0.000004" Qxz="0.000000" Qyy="0.000005" Qyz="0.000000" Qzz="0.000000" MeanError="1.000000" CQ3D="0.003022" CQPos="0.003016" CQHeight="0.000188"/>
+</Point>
+<Point uniqueID="REFL 1@64" class="measured" subclass="TPS" averageUsage="false" applicationNumber="4" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="2.709902" n="11.102821" hghthO="-0.727270">
+<CoordinateQuality Qxx="0.000000" Qxy="-0.000001" Qxz="0.000000" Qyy="0.000009" Qyz="-0.000001" Qzz="0.000000" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000000" Qxy="-0.000001" Qxz="0.000000" Qyy="0.000009" Qyz="-0.000001" Qzz="0.000000" MeanError="1.000000" CQ3D="0.003019" CQPos="0.002990" CQHeight="0.000418"/>
+</Point>
+<Point uniqueID="PRISM PLANT@63" class="measured" subclass="TPS" averageUsage="false" applicationNumber="4" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="3.590728" n="5.538486" hghthO="-0.786558">
+<CoordinateQuality Qxx="0.000010" Qxy="-0.000012" Qxz="0.000002" Qyy="0.000015" Qyz="-0.000002" Qzz="0.000000" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000010" Qxy="-0.000012" Qxz="0.000002" Qyy="0.000015" Qyz="-0.000002" Qzz="0.000000" MeanError="1.000000" CQ3D="0.005022" CQPos="0.004981" CQHeight="0.000640"/>
+</Point>
+<Point uniqueID="PRISM OLIVIER@62" class="measured" subclass="TPS" averageUsage="false" applicationNumber="4" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="-5.314810" n="-1.169626" hghthO="-0.776478">
+<CoordinateQuality Qxx="0.000023" Qxy="0.000006" Qxz="0.000003" Qyy="0.000002" Qyz="0.000001" Qzz="0.000000" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000023" Qxy="0.000006" Qxz="0.000003" Qyy="0.000002" Qyz="0.000001" Qzz="0.000000" MeanError="1.000000" CQ3D="0.005021" CQPos="0.004981" CQHeight="0.000640"/>
+</Point>
+<Point uniqueID="MARKER 07 B" class="measured" subclass="TPS" averageUsage="true" applicationNumber="3" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="-5.207736" n="-1.163715" hghthO="-0.505765">
+<CoordinateQuality Qxx="0.000009" Qxy="0.000000" Qxz="0.000001" Qyy="0.000000" Qyz="0.000000" Qzz="0.000000" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000009" Qxy="0.000000" Qxz="0.000001" Qyy="0.000000" Qyz="0.000000" Qzz="0.000000" MeanError="1.000000" CQ3D="0.003014" CQPos="0.002978" CQHeight="0.000467"/>
+</Point>
+<Point uniqueID="MARKER 07 A" class="measured" subclass="TPS" averageUsage="true" applicationNumber="3" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="-5.020646" n="-1.142067" hghthO="-0.689013">
+<CoordinateQuality Qxx="0.000009" Qxy="0.000000" Qxz="0.000002" Qyy="0.000000" Qyz="0.000000" Qzz="0.000000" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000009" Qxy="0.000000" Qxz="0.000002" Qyy="0.000000" Qyz="0.000000" Qzz="0.000000" MeanError="1.000000" CQ3D="0.003014" CQPos="0.002964" CQHeight="0.000548"/>
+</Point>
+<Point uniqueID="MARKER 06 B" class="measured" subclass="TPS" averageUsage="true" applicationNumber="3" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="-6.685115" n="1.281488" hghthO="-0.512146">
+<CoordinateQuality Qxx="0.000007" Qxy="0.000003" Qxz="0.000002" Qyy="0.000001" Qyz="0.000001" Qzz="0.000000" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000007" Qxy="0.000003" Qxz="0.000002" Qyy="0.000001" Qyz="0.000001" Qzz="0.000000" MeanError="1.000000" CQ3D="0.003010" CQPos="0.002935" CQHeight="0.000669"/>
+</Point>
+<Point uniqueID="MARKER 06 A" class="measured" subclass="TPS" averageUsage="true" applicationNumber="3" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="-6.664225" n="1.093133" hghthO="-0.695360">
+<CoordinateQuality Qxx="0.000007" Qxy="0.000003" Qxz="0.000002" Qyy="0.000001" Qyz="0.000001" Qzz="0.000001" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000007" Qxy="0.000003" Qxz="0.000002" Qyy="0.000001" Qyz="0.000001" Qzz="0.000001" MeanError="1.000000" CQ3D="0.003010" CQPos="0.002915" CQHeight="0.000753"/>
+</Point>
+<Point uniqueID="MARKER 05 B" class="measured" subclass="TPS" averageUsage="true" applicationNumber="3" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="-7.027515" n="4.689278" hghthO="-0.507702">
+<CoordinateQuality Qxx="0.000001" Qxy="0.000002" Qxz="0.000001" Qyy="0.000007" Qyz="0.000003" Qzz="0.000002" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000001" Qxy="0.000002" Qxz="0.000001" Qyy="0.000007" Qyz="0.000003" Qzz="0.000002" MeanError="1.000000" CQ3D="0.003005" CQPos="0.002743" CQHeight="0.001227"/>
+</Point>
+<Point uniqueID="MARKER 05 A" class="measured" subclass="TPS" averageUsage="true" applicationNumber="3" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="-7.003096" n="4.503362" hghthO="-0.694136">
+<CoordinateQuality Qxx="0.000001" Qxy="0.000003" Qxz="0.000002" Qyy="0.000006" Qyz="0.000003" Qzz="0.000002" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000001" Qxy="0.000003" Qxz="0.000002" Qyy="0.000006" Qyz="0.000003" Qzz="0.000002" MeanError="1.000000" CQ3D="0.003005" CQPos="0.002671" CQHeight="0.001379"/>
+</Point>
+<Point uniqueID="MARKER 16 B" class="measured" subclass="TPS" averageUsage="true" applicationNumber="2" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="-6.388265" n="7.507386" hghthO="-0.354927">
+<CoordinateQuality Qxx="0.000005" Qxy="-0.000004" Qxz="-0.000002" Qyy="0.000003" Qyz="0.000002" Qzz="0.000001" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000005" Qxy="-0.000004" Qxz="-0.000002" Qyy="0.000003" Qyz="0.000002" Qzz="0.000001" MeanError="1.000000" CQ3D="0.003005" CQPos="0.002836" CQHeight="0.000996"/>
+</Point>
+<Point uniqueID="MARKER 03 B" class="measured" subclass="TPS" averageUsage="true" applicationNumber="2" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="-7.363688" n="14.935213" hghthO="-0.524430">
+<CoordinateQuality Qxx="0.000008" Qxy="-0.000002" Qxz="-0.000001" Qyy="0.000001" Qyz="0.000000" Qzz="0.000000" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000008" Qxy="-0.000002" Qxz="-0.000001" Qyy="0.000001" Qyz="0.000000" Qzz="0.000000" MeanError="1.000000" CQ3D="0.003021" CQPos="0.003003" CQHeight="0.000332"/>
+</Point>
+<Point uniqueID="MARKER 03 A" class="measured" subclass="TPS" averageUsage="true" applicationNumber="2" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="-7.548480" n="14.915679" hghthO="-0.708337">
+<CoordinateQuality Qxx="0.000008" Qxy="-0.000002" Qxz="-0.000001" Qyy="0.000001" Qyz="0.000000" Qzz="0.000000" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000008" Qxy="-0.000002" Qxz="-0.000001" Qyy="0.000001" Qyz="0.000000" Qzz="0.000000" MeanError="1.000000" CQ3D="0.003021" CQPos="0.002996" CQHeight="0.000386"/>
+</Point>
+<Point uniqueID="WCH L" class="measured" subclass="TPS" averageUsage="true" applicationNumber="2" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="2.840910" n="12.206527" hghthO="1.536528">
+<CoordinateQuality Qxx="0.000004" Qxy="0.000004" Qxz="0.000001" Qyy="0.000005" Qyz="0.000001" Qzz="0.000000" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000004" Qxy="0.000004" Qxz="0.000001" Qyy="0.000005" Qyz="0.000001" Qzz="0.000000" MeanError="1.000000" CQ3D="0.003022" CQPos="0.003007" CQHeight="0.000303"/>
+</Point>
+<Point uniqueID="WCH R" class="measured" subclass="TPS" averageUsage="true" applicationNumber="2" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="3.519335" n="5.270466" hghthO="1.122094">
+<CoordinateQuality Qxx="0.000000" Qxy="0.000000" Qxz="0.000000" Qyy="0.000009" Qyz="0.000001" Qzz="0.000000" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000000" Qxy="0.000000" Qxz="0.000000" Qyy="0.000009" Qyz="0.000001" Qzz="0.000000" MeanError="1.000000" CQ3D="0.003018" CQPos="0.003010" CQHeight="0.000218"/>
+</Point>
+<Point uniqueID="MARKER 17 B" class="measured" subclass="TPS" averageUsage="true" applicationNumber="2" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="0.665233" n="4.893727" hghthO="-0.547471">
+<CoordinateQuality Qxx="0.000000" Qxy="-0.000001" Qxz="0.000000" Qyy="0.000009" Qyz="-0.000002" Qzz="0.000000" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000000" Qxy="-0.000001" Qxz="0.000000" Qyy="0.000009" Qyz="-0.000002" Qzz="0.000000" MeanError="1.000000" CQ3D="0.003012" CQPos="0.002956" CQHeight="0.000579"/>
+</Point>
+<Point uniqueID="MARKER 17 A" class="measured" subclass="TPS" averageUsage="true" applicationNumber="2" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="0.643333" n="5.078649" hghthO="-0.733240">
+<CoordinateQuality Qxx="0.000000" Qxy="-0.000001" Qxz="0.000000" Qyy="0.000009" Qyz="-0.000002" Qzz="0.000000" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000000" Qxy="-0.000001" Qxz="0.000000" Qyy="0.000009" Qyz="-0.000002" Qzz="0.000000" MeanError="1.000000" CQ3D="0.003012" CQPos="0.002934" CQHeight="0.000678"/>
+</Point>
+<Point uniqueID="MARKER 12 B" class="measured" subclass="TPS" averageUsage="true" applicationNumber="2" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="3.435138" n="6.840325" hghthO="-0.523805">
+<CoordinateQuality Qxx="0.000000" Qxy="0.000001" Qxz="0.000000" Qyy="0.000009" Qyz="-0.000001" Qzz="0.000000" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000000" Qxy="0.000001" Qxz="0.000000" Qyy="0.000009" Qyz="-0.000001" Qzz="0.000000" MeanError="1.000000" CQ3D="0.003018" CQPos="0.002994" CQHeight="0.000382"/>
+</Point>
+<Point uniqueID="MARKER 12 A" class="measured" subclass="TPS" averageUsage="true" applicationNumber="2" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="3.407254" n="7.023913" hghthO="-0.709765">
+<CoordinateQuality Qxx="0.000000" Qxy="0.000002" Qxz="0.000000" Qyy="0.000009" Qyz="-0.000001" Qzz="0.000000" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000000" Qxy="0.000002" Qxz="0.000000" Qyy="0.000009" Qyz="-0.000001" Qzz="0.000000" MeanError="1.000000" CQ3D="0.003018" CQPos="0.002985" CQHeight="0.000447"/>
+</Point>
+<Point uniqueID="MARKER 10 B" class="measured" subclass="TPS" averageUsage="true" applicationNumber="2" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="2.552625" n="9.175623" hghthO="-0.474095">
+<CoordinateQuality Qxx="0.000002" Qxy="0.000004" Qxz="0.000000" Qyy="0.000007" Qyz="-0.000001" Qzz="0.000000" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000002" Qxy="0.000004" Qxz="0.000000" Qyy="0.000007" Qyz="-0.000001" Qzz="0.000000" MeanError="1.000000" CQ3D="0.003018" CQPos="0.002995" CQHeight="0.000370"/>
+</Point>
+<Point uniqueID="MARKER 10 A" class="measured" subclass="TPS" averageUsage="true" applicationNumber="2" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="2.529273" n="9.355368" hghthO="-0.662122">
+<CoordinateQuality Qxx="0.000002" Qxy="0.000004" Qxz="-0.000001" Qyy="0.000007" Qyz="-0.000001" Qzz="0.000000" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000002" Qxy="0.000004" Qxz="-0.000001" Qyy="0.000007" Qyz="-0.000001" Qzz="0.000000" MeanError="1.000000" CQ3D="0.003018" CQPos="0.002987" CQHeight="0.000434"/>
+</Point>
+<Point uniqueID="MARKER 00 B" class="measured" subclass="TPS" averageUsage="true" applicationNumber="2" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="-1.098207" n="10.360592" hghthO="-0.521558">
+<CoordinateQuality Qxx="0.000006" Qxy="0.000004" Qxz="-0.000001" Qyy="0.000003" Qyz="-0.000001" Qzz="0.000000" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000006" Qxy="0.000004" Qxz="-0.000001" Qyy="0.000003" Qyz="-0.000001" Qzz="0.000000" MeanError="1.000000" CQ3D="0.003013" CQPos="0.002969" CQHeight="0.000513"/>
+</Point>
+<Point uniqueID="MARKER 00 A" class="measured" subclass="TPS" averageUsage="true" applicationNumber="2" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="-1.281209" n="10.336188" hghthO="-0.705194">
+<CoordinateQuality Qxx="0.000006" Qxy="0.000004" Qxz="-0.000001" Qyy="0.000003" Qyz="-0.000001" Qzz="0.000000" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000006" Qxy="0.000004" Qxz="-0.000001" Qyy="0.000003" Qyz="-0.000001" Qzz="0.000000" MeanError="1.000000" CQ3D="0.003013" CQPos="0.002950" CQHeight="0.000611"/>
+</Point>
+<Point uniqueID="REFL 2" class="measured" subclass="TPS" averageUsage="true" applicationNumber="1" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="-1.689610" n="10.281517" hghthO="-0.733682">
+<CoordinateQuality Qxx="0.000006" Qxy="0.000004" Qxz="-0.000002" Qyy="0.000003" Qyz="-0.000001" Qzz="0.000000" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000006" Qxy="0.000004" Qxz="-0.000002" Qyy="0.000003" Qyz="-0.000001" Qzz="0.000000" MeanError="1.000000" CQ3D="0.003012" CQPos="0.002941" CQHeight="0.000653"/>
+</Point>
+<Point uniqueID="REFL 1" class="measured" subclass="TPS" averageUsage="true" applicationNumber="1" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="2.710359" n="11.102066" hghthO="-0.727349">
+<CoordinateQuality Qxx="0.000003" Qxy="0.000004" Qxz="-0.000001" Qyy="0.000006" Qyz="-0.000001" Qzz="0.000000" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000003" Qxy="0.000004" Qxz="-0.000001" Qyy="0.000006" Qyz="-0.000001" Qzz="0.000000" MeanError="1.000000" CQ3D="0.003020" CQPos="0.002993" CQHeight="0.000407"/>
+</Point>
+<Point uniqueID="PRISM OLIVIER" class="measured" subclass="TPS" averageUsage="true" applicationNumber="1" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="-5.318975" n="-1.173086" hghthO="-0.777963">
+<CoordinateQuality Qxx="0.000009" Qxy="0.000001" Qxz="0.000002" Qyy="0.000000" Qyz="0.000000" Qzz="0.000000" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000009" Qxy="0.000001" Qxz="0.000002" Qyy="0.000000" Qyz="0.000000" Qzz="0.000000" MeanError="1.000000" CQ3D="0.003014" CQPos="0.002958" CQHeight="0.000582"/>
+</Point>
+<Point uniqueID="PRISM PLANT" class="measured" subclass="TPS" averageUsage="true" applicationNumber="1" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="3.594455" n="5.543240" hghthO="-0.784704">
+<CoordinateQuality Qxx="0.000000" Qxy="0.000000" Qxz="0.000000" Qyy="0.000009" Qyz="-0.000001" Qzz="0.000000" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000000" Qxy="0.000000" Qxz="0.000000" Qyy="0.000009" Qyz="-0.000001" Qzz="0.000000" MeanError="1.000000" CQ3D="0.003018" CQPos="0.002981" CQHeight="0.000470"/>
+</Point>
+<Point uniqueID="POSE3" class="reference" subclass="TPS" applicationNumber="1" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<Coordinates originalCoordSysKind="Grid" originalGeodeticDatumKind="Local" originalHeightKind="orthometric">
+<Local>
+<Grid e="-4.839107" n="5.498624" hghthO="-0.827611">
+<CoordinateQuality Qxx="0.000003" Qxy="0.000000" Qxz="0.000000" Qyy="0.000003" Qyz="0.000000" Qzz="0.000001" MeanError="1.000000"/>
+</Grid>
+</Local>
+</Coordinates>
+<PointQuality Qxx="0.000003" Qxy="0.000000" Qxz="0.000000" Qyy="0.000003" Qyz="0.000000" Qzz="0.000001" MeanError="1.000000" CQ3D="0.002614" CQPos="0.002493" CQHeight="0.000786"/>
+</Point>
+<Survey name="GTE ROBOTS_0" SurveyDuration="P0Y0M0DT2H21M26S" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+<TPSCorrection instrumentDetailsID="TPS_3" uniqueID="13" referenceRadius="6378000.000000" offsetCentralMeridian="0.000000" scaleFactorCentralMeridian="1.000000" dryTemperature="12.000000" wetTemperature="8.264284" pressure="1013.250000" refractionCoefficient="0.130000" atmosphericPPM="0.000000" projectionPPM="0.000000" heightReductionPPM="0.000000" individualPPM="0.000000" combinedPPM="0.000000"/>
+<InstrumentSetup uniqueID="TPSSetupID_3_2" tpsSetupMethod="resection">
+<RawObservation targetPntRef="PRISM PLANT" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="8.536400" slopeDistanceWithoutAtmosphericCorrection="8.536400" inclinationLength="-0.000041" inclinationCross="0.000020"/>
+<RawObservation targetPntRef="PRISM OLIVIER" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="6.816700" slopeDistanceWithoutAtmosphericCorrection="6.816700" inclinationLength="0.000032" inclinationCross="0.000035"/>
+<RawObservation targetPntRef="REFL 1" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="9.486200" slopeDistanceWithoutAtmosphericCorrection="9.486200" inclinationLength="-0.000035" inclinationCross="-0.000021"/>
+<RawObservation targetPntRef="REFL 2" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="5.865700" slopeDistanceWithoutAtmosphericCorrection="5.865700" inclinationLength="-0.000024" inclinationCross="-0.000044"/>
+<RawObservation targetPntRef="MARKER 00 A" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="6.131900" slopeDistanceWithoutAtmosphericCorrection="6.131900" inclinationLength="-0.000026" inclinationCross="-0.000050"/>
+<RawObservation targetPntRef="MARKER 00 B" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="6.225000" slopeDistanceWithoutAtmosphericCorrection="6.225000" inclinationLength="-0.000026" inclinationCross="-0.000050"/>
+<RawObservation targetPntRef="MARKER 10 A" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="8.402500" slopeDistanceWithoutAtmosphericCorrection="8.402500" inclinationLength="-0.000043" inclinationCross="-0.000035"/>
+<RawObservation targetPntRef="MARKER 10 B" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="8.317300" slopeDistanceWithoutAtmosphericCorrection="8.317300" inclinationLength="-0.000044" inclinationCross="-0.000034"/>
+<RawObservation targetPntRef="MARKER 12 A" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="8.478200" slopeDistanceWithoutAtmosphericCorrection="8.478200" inclinationLength="-0.000035" inclinationCross="-0.000022"/>
+<RawObservation targetPntRef="MARKER 12 B" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="8.449000" slopeDistanceWithoutAtmosphericCorrection="8.449000" inclinationLength="-0.000039" inclinationCross="-0.000029"/>
+<RawObservation targetPntRef="MARKER 17 A" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="5.643000" slopeDistanceWithoutAtmosphericCorrection="5.643000" inclinationLength="-0.000040" inclinationCross="-0.000011"/>
+<RawObservation targetPntRef="MARKER 17 B" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="5.642400" slopeDistanceWithoutAtmosphericCorrection="5.642400" inclinationLength="-0.000041" inclinationCross="-0.000008"/>
+<RawObservation targetPntRef="WCH R" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="8.382100" slopeDistanceWithoutAtmosphericCorrection="8.382100" inclinationLength="-0.000045" inclinationCross="-0.000013"/>
+<RawObservation targetPntRef="WCH L" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="10.246000" slopeDistanceWithoutAtmosphericCorrection="10.246000" inclinationLength="-0.000029" inclinationCross="-0.000050"/>
+<RawObservation targetPntRef="MARKER 03 A" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="9.877700" slopeDistanceWithoutAtmosphericCorrection="9.877700" inclinationLength="0.000034" inclinationCross="-0.000063"/>
+<RawObservation targetPntRef="MARKER 03 B" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="9.825800" slopeDistanceWithoutAtmosphericCorrection="9.825800" inclinationLength="0.000034" inclinationCross="-0.000067"/>
+<RawObservation targetPntRef="MARKER 16 B" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="2.688500" slopeDistanceWithoutAtmosphericCorrection="2.688500" inclinationLength="0.000073" inclinationCross="-0.000070"/>
+<RawObservation targetPntRef="MARKER 05 A" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="2.680600" slopeDistanceWithoutAtmosphericCorrection="2.680600" inclinationLength="0.000115" inclinationCross="0.000062"/>
+<RawObservation targetPntRef="MARKER 05 B" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="2.555900" slopeDistanceWithoutAtmosphericCorrection="2.555900" inclinationLength="0.000121" inclinationCross="0.000052"/>
+<RawObservation targetPntRef="MARKER 06 A" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="4.924900" slopeDistanceWithoutAtmosphericCorrection="4.924900" inclinationLength="0.000031" inclinationCross="0.000123"/>
+<RawObservation targetPntRef="MARKER 06 B" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="4.721200" slopeDistanceWithoutAtmosphericCorrection="4.721200" inclinationLength="0.000039" inclinationCross="0.000121"/>
+<RawObservation targetPntRef="MARKER 07 A" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="6.755100" slopeDistanceWithoutAtmosphericCorrection="6.755100" inclinationLength="-0.000012" inclinationCross="0.000119"/>
+<RawObservation targetPntRef="MARKER 07 B" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="6.753300" slopeDistanceWithoutAtmosphericCorrection="6.753300" inclinationLength="-0.000006" inclinationCross="0.000120"/>
+<Scan name="GTE1" State="scanned" NumberPoints="338063" description="" TimeCreated="2026-02-09T12:20:37.30" TimeModified="2026-02-09T12:29:42.72" TimeStarted="2026-02-09T12:21:17.45" TimeEnded="2026-02-09T12:29:42.72" PanoramaImage="0" MaxSNR="16383" MinSNR="8" MaxIntensity="60868" MinIntensity="0" MaxDistance="34.113100" MinDistance="0.000000" MaxEasting="13.600357" MinEasting="-38.653512" MaxNorthing="15.188411" MinNorthing="-10.830742" MaxElevation="5.254605" MinElevation="-5.557311">
+  <ScanDefinition>
+    <ScanAreaFullDome AngleResolutionHz="0.500000000000000" AngleResolutionV="0.100000000000000" ScanDirection="Horizontal" ScanMode="Continuous" ScanRate="Full" ScanVelocity="6.283185" MinDistance="0.000000" MaxDistance="0.000000" DistanceFilter="None">
+      <ScanDefPoints horizAngle="0.000000000000000" zenithAngle="84.026677988806142" horizDistance="-1.000000"/>
+      <ScanDefPoints horizAngle="399.999936338022740" zenithAngle="130.597519991319590" horizDistance="-1.000000"/>
+    </ScanAreaFullDome>
+  </ScanDefinition>
+  <landxml:DocFileRef name="GTE1_090226_122117" location="GTE ROBOTS_xml"/>
+  <Scan3DTransformation shiftdX="0.000000" shiftdY="0.000000" shiftdZ="0.000000" rotationX="0.000000000000000" rotationY="0.000000000000000" rotationZ="0.000000000000000" scaleX="1" scaleY="1" scaleZ="1"/>
+</Scan>
+<TPSImage uniqueID="4_3" InteriorOrient="3_3" CameraCalib="2_3" ChipWindow="1_3" horizAngle="77.493294541090648" zenithAngle="99.360509581221351" InclinationLength="-0.049193159053674" InclinationCross="-0.111113480673592" Width="2560" Height="1920" Dimension="Landscape">
+<landxml:DocFileRef name="Img_090226_114454" location="GTE ROBOTS_xml" fileFormat="jpg"/>
+<ExteriorOrientation ProjectionCenterX="-4.782744" ProjectionCenterY="5.501828" ProjectionCenterZ="0.596926" Phi="77.493294541090648" Theta="99.360509581221351" Kappa="0.000000000000000"/>
+</TPSImage>
+</InstrumentSetup>
+<InstrumentSetup uniqueID="TPSSetupID_3_4" tpsSetupMethod="resection">
+<RawObservation targetPntRef="PRISM OLIVIER@62" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflector" edmMode="syncrotrack" atrMode="ATR lock" reflectorName="Leica Mini 360°" reflectorConstant="0.030000" slopeDistanceWithAtmosphericCorrection="10.262000" slopeDistanceWithoutAtmosphericCorrection="10.262000" inclinationLength="-0.000025" inclinationCross="-0.000047"/>
+<RawObservation targetPntRef="PRISM PLANT@63" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflector" edmMode="syncrotrack" atrMode="ATR lock" reflectorName="Leica Mini 360°" reflectorConstant="0.030000" slopeDistanceWithAtmosphericCorrection="10.339600" slopeDistanceWithoutAtmosphericCorrection="10.339600" inclinationLength="0.000016" inclinationCross="-0.000044"/>
+<RawObservation targetPntRef="REFL 1@64" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="9.119000" slopeDistanceWithoutAtmosphericCorrection="9.119000" inclinationLength="0.000026" inclinationCross="-0.000028"/>
+<RawObservation targetPntRef="WCH R@65" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="10.299800" slopeDistanceWithoutAtmosphericCorrection="10.299800" inclinationLength="0.000005" inclinationCross="-0.000041"/>
+<RawObservation targetPntRef="MARKER 04 A" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="2.108400" slopeDistanceWithoutAtmosphericCorrection="2.108400" inclinationLength="0.000046" inclinationCross="-0.000023"/>
+<RawObservation targetPntRef="MARKER 04 B" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="1.891300" slopeDistanceWithoutAtmosphericCorrection="1.891300" inclinationLength="0.000044" inclinationCross="-0.000028"/>
+<RawObservation targetPntRef="MARKER 02 A" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="4.320500" slopeDistanceWithoutAtmosphericCorrection="4.320500" inclinationLength="0.000041" inclinationCross="0.000018"/>
+<RawObservation targetPntRef="MARKER 02 B" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="4.435700" slopeDistanceWithoutAtmosphericCorrection="4.435700" inclinationLength="0.000044" inclinationCross="0.000014"/>
+<RawObservation targetPntRef="MARKER 01 A" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="1.941600" slopeDistanceWithoutAtmosphericCorrection="1.941600" inclinationLength="0.000021" inclinationCross="0.000042"/>
+<RawObservation targetPntRef="MARKER 01 B" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="1.859000" slopeDistanceWithoutAtmosphericCorrection="1.859000" inclinationLength="0.000030" inclinationCross="0.000037"/>
+<RawObservation targetPntRef="MARKER 15 A" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="2.477000" slopeDistanceWithoutAtmosphericCorrection="2.477000" inclinationLength="-0.000033" inclinationCross="0.000017"/>
+<RawObservation targetPntRef="MARKER 15 B" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="2.447900" slopeDistanceWithoutAtmosphericCorrection="2.447900" inclinationLength="-0.000028" inclinationCross="0.000021"/>
+<RawObservation targetPntRef="MARKER 09 A" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="6.675800" slopeDistanceWithoutAtmosphericCorrection="6.675800" inclinationLength="-0.000030" inclinationCross="-0.000024"/>
+<RawObservation targetPntRef="MARKER 09 B" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="6.516200" slopeDistanceWithoutAtmosphericCorrection="6.516200" inclinationLength="-0.000032" inclinationCross="-0.000022"/>
+<RawObservation targetPntRef="MARKER 13 A" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="11.358300" slopeDistanceWithoutAtmosphericCorrection="11.358300" inclinationLength="-0.000024" inclinationCross="-0.000029"/>
+<RawObservation targetPntRef="MARKER 13 B" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="11.444100" slopeDistanceWithoutAtmosphericCorrection="11.444100" inclinationLength="-0.000026" inclinationCross="-0.000029"/>
+<RawObservation targetPntRef="REFL 3" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="2.054200" slopeDistanceWithoutAtmosphericCorrection="2.054200" inclinationLength="0.000056" inclinationCross="-0.000003"/>
+<RawObservation targetPntRef="SCREW L@95" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="1.849500" slopeDistanceWithoutAtmosphericCorrection="1.849500" inclinationLength="0.000061" inclinationCross="-0.000007"/>
+<TPSSetupResult uniqueID="TPSSetupID_3_4">
+<ResectionResults scaleUsed="false" resectionType="LeastSqare" helmertHgtMethod="1/Distance^2">
+<BacksightResults id="WCH R" useKind="3d" deltaHz="0.003765" deltaHzDist="0.000322" deltaHgt="0.000135" deltaSlopeDist="0.000329">
+<UseObs bUseHz="true" bUseHzDist="true" bUseVz="true" bUseVzDist="true"/>
+</BacksightResults>
+<BacksightResults id="REFL 1" useKind="3d" deltaHz="0.005935" deltaHzDist="0.000267" deltaHgt="-0.000078" deltaSlopeDist="0.000276">
+<UseObs bUseHz="true" bUseHzDist="true" bUseVz="true" bUseVzDist="true"/>
+</BacksightResults>
+<BacksightResults id="PRISM PLANT" useKind="3d" deltaHz="-0.035559" deltaHzDist="0.001917" deltaHgt="0.001854" deltaSlopeDist="0.001668">
+<UseObs bUseHz="true" bUseHzDist="true" bUseVz="true" bUseVzDist="true"/>
+</BacksightResults>
+<BacksightResults id="PRISM OLIVIER" useKind="3d" deltaHz="0.027576" deltaHzDist="0.003143" deltaHgt="-0.001484" deltaSlopeDist="0.003306">
+<UseObs bUseHz="true" bUseHzDist="true" bUseVz="true" bUseVzDist="true"/>
+</BacksightResults>
+<OrientationResults stdDevHzOrientation="0.018349438968628" orientationCorrection="-21.777436049648202"/>
+<HeightResults calcHgt="-0.846931" diffHgt="-0.019320" previousHgt="-0.827611" stdDevHgt="0.000288"/>
+<StationResults stdDevNorth="0.002974" stdDevEast="0.002227" stdDevHgt="0.000687"/>
+</ResectionResults>
+</TPSSetupResult>
+</InstrumentSetup>
+<InstrumentSetup uniqueID="TPSSetupID_3_5" tpsSetupMethod="resection">
+<RawObservation targetPntRef="PRISM OLIVIER@98" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="6.218400" slopeDistanceWithoutAtmosphericCorrection="6.218400" inclinationLength="-0.000079" inclinationCross="-0.000050"/>
+<RawObservation targetPntRef="PRISM PLANT@99" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="10.080900" slopeDistanceWithoutAtmosphericCorrection="10.080900" inclinationLength="0.000037" inclinationCross="-0.000112"/>
+<RawObservation targetPntRef="REFL 1@100" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="11.117600" slopeDistanceWithoutAtmosphericCorrection="11.117600" inclinationLength="0.000089" inclinationCross="-0.000081"/>
+<RawObservation targetPntRef="REFL 2@101" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="7.307800" slopeDistanceWithoutAtmosphericCorrection="7.307800" inclinationLength="0.000107" inclinationCross="-0.000060"/>
+<RawObservation targetPntRef="MARKER 08 A" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="2.593900" slopeDistanceWithoutAtmosphericCorrection="2.593900" inclinationLength="-0.000001" inclinationCross="-0.000127"/>
+<RawObservation targetPntRef="MARKER 08 B" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="2.597900" slopeDistanceWithoutAtmosphericCorrection="2.597900" inclinationLength="-0.000006" inclinationCross="-0.000129"/>
+<TPSSetupResult uniqueID="TPSSetupID_3_5">
+<ResectionResults scaleUsed="false" resectionType="LeastSqare" helmertHgtMethod="1/Distance^2">
+<BacksightResults id="REFL 2" useKind="3d" deltaHz="0.000005" deltaHzDist="0.000090" deltaHgt="-0.000077" deltaSlopeDist="0.000103">
+<UseObs bUseHz="true" bUseHzDist="true" bUseVz="true" bUseVzDist="true"/>
+</BacksightResults>
+<BacksightResults id="REFL 1@64" useKind="3d" deltaHz="-0.005720" deltaHzDist="0.001215" deltaHgt="-0.001688" deltaSlopeDist="0.001398">
+<UseObs bUseHz="true" bUseHzDist="true" bUseVz="true" bUseVzDist="true"/>
+</BacksightResults>
+<BacksightResults id="PRISM PLANT@63" useKind="3d" deltaHz="-0.001075" deltaHzDist="0.001406" deltaHgt="0.001712" deltaSlopeDist="0.001173">
+<UseObs bUseHz="true" bUseHzDist="true" bUseVz="true" bUseVzDist="true"/>
+</BacksightResults>
+<BacksightResults id="PRISM OLIVIER@62" useKind="3d" deltaHz="0.021763" deltaHzDist="0.001533" deltaHgt="-0.000034" deltaSlopeDist="0.001506">
+<UseObs bUseHz="true" bUseHzDist="true" bUseVz="true" bUseVzDist="true"/>
+</BacksightResults>
+<OrientationResults stdDevHzOrientation="0.005476755037226" orientationCorrection="178.084177188307190"/>
+<HeightResults calcHgt="-0.843759" diffHgt="0.003171" previousHgt="-0.846931" stdDevHgt="0.000086"/>
+<StationResults stdDevNorth="0.001076" stdDevEast="0.000772" stdDevHgt="0.000695"/>
+</ResectionResults>
+</TPSSetupResult>
+</InstrumentSetup>
+<InstrumentSetup uniqueID="TPSSetupID_3_6" tpsSetupMethod="resection">
+<RawObservation targetPntRef="PRISM PLANT@108" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="3.054100" slopeDistanceWithoutAtmosphericCorrection="3.054100" inclinationLength="0.000083" inclinationCross="-0.000101"/>
+<RawObservation targetPntRef="REFL 2@109" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="4.943900" slopeDistanceWithoutAtmosphericCorrection="4.943900" inclinationLength="0.000005" inclinationCross="0.000124"/>
+<RawObservation targetPntRef="REFL 3@110" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="9.235600" slopeDistanceWithoutAtmosphericCorrection="9.235600" inclinationLength="-0.000076" inclinationCross="0.000102"/>
+<RawObservation targetPntRef="SCREW L@111" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="9.192300" slopeDistanceWithoutAtmosphericCorrection="9.192300" inclinationLength="-0.000076" inclinationCross="0.000103"/>
+<RawObservation targetPntRef="SCREW L@114" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="8.168600" slopeDistanceWithoutAtmosphericCorrection="8.168600" inclinationLength="-0.000131" inclinationCross="0.000024"/>
+<RawObservation targetPntRef="SCREW L@118" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="8.168600" slopeDistanceWithoutAtmosphericCorrection="8.168600" inclinationLength="-0.000132" inclinationCross="0.000024"/>
+<RawObservation targetPntRef="MARKER 14 A" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="6.725600" slopeDistanceWithoutAtmosphericCorrection="6.725600" inclinationLength="-0.000007" inclinationCross="0.000127"/>
+<RawObservation targetPntRef="MARKER 14 B" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="6.615900" slopeDistanceWithoutAtmosphericCorrection="6.615900" inclinationLength="-0.000004" inclinationCross="0.000130"/>
+<RawObservation targetPntRef="MARKER 11 A" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="4.686100" slopeDistanceWithoutAtmosphericCorrection="4.686100" inclinationLength="0.000069" inclinationCross="0.000130"/>
+<RawObservation targetPntRef="MARKER 11 B" tpsCorrectionRef="13" meanFace="false" autoHeight="false" tiltCompensated="false" edmKind="reflectorless" edmMode="standard" atrMode="ATR off" reflectorName="" reflectorConstant="0.034400" slopeDistanceWithAtmosphericCorrection="4.638200" slopeDistanceWithoutAtmosphericCorrection="4.638200" inclinationLength="0.000074" inclinationCross="0.000129"/>
+<TPSSetupResult uniqueID="TPSSetupID_3_6">
+<ResectionResults scaleUsed="false" resectionType="LeastSqare" helmertHgtMethod="1/Distance^2">
+<BacksightResults id="SCREW L@95" useKind="3d" deltaHz="0.004861" deltaHzDist="0.002706" deltaHgt="-0.000863" deltaSlopeDist="0.002615">
+<UseObs bUseHz="true" bUseHzDist="true" bUseVz="true" bUseVzDist="true"/>
+</BacksightResults>
+<BacksightResults id="REFL 3" useKind="3d" deltaHz="-0.002193" deltaHzDist="0.000589" deltaHgt="-0.002392" deltaSlopeDist="0.000901">
+<UseObs bUseHz="true" bUseHzDist="true" bUseVz="true" bUseVzDist="true"/>
+</BacksightResults>
+<BacksightResults id="REFL 2@101" useKind="3d" deltaHz="-0.000821" deltaHzDist="-0.002838" deltaHgt="-0.001380" deltaSlopeDist="-0.002395">
+<UseObs bUseHz="true" bUseHzDist="true" bUseVz="true" bUseVzDist="true"/>
+</BacksightResults>
+<BacksightResults id="PRISM PLANT@99" useKind="3d" deltaHz="-0.026895" deltaHzDist="0.001145" deltaHgt="0.004636" deltaSlopeDist="-0.000951">
+<UseObs bUseHz="true" bUseHzDist="true" bUseVz="true" bUseVzDist="true"/>
+</BacksightResults>
+<OrientationResults stdDevHzOrientation="0.003957093547252" orientationCorrection="-195.822805332620450"/>
+<HeightResults calcHgt="-0.851572" diffHgt="-0.007813" previousHgt="-0.843759" stdDevHgt="0.000062"/>
+<StationResults stdDevNorth="0.001261" stdDevEast="0.001078" stdDevHgt="0.001577"/>
+</ResectionResults>
+</TPSSetupResult>
+<Scan name="POSE4" State="scanned" NumberPoints="469474" description="" TimeCreated="2026-02-09T14:07:47.62" TimeModified="2026-02-09T14:19:54.53" TimeStarted="2026-02-09T14:08:00.18" TimeEnded="2026-02-09T14:19:54.53" PanoramaImage="0" MaxSNR="16383" MinSNR="8" MaxIntensity="64936" MinIntensity="0" MaxDistance="35.347300" MinDistance="0.000000" MaxEasting="30.366421" MinEasting="-33.569918" MaxNorthing="35.679926" MinNorthing="-12.048240" MaxElevation="5.406824" MinElevation="-5.690474">
+  <ScanDefinition>
+    <ScanAreaFullDome AngleResolutionHz="0.500000000000000" AngleResolutionV="0.100000000000000" ScanDirection="Horizontal" ScanMode="Continuous" ScanRate="Full" ScanVelocity="6.283185" MinDistance="0.000000" MaxDistance="0.000000" DistanceFilter="None">
+      <ScanDefPoints horizAngle="0.000000000000000" zenithAngle="75.987703960784756" horizDistance="-1.000000"/>
+      <ScanDefPoints horizAngle="399.999936338022740" zenithAngle="142.415760447041630" horizDistance="-1.000000"/>
+    </ScanAreaFullDome>
+  </ScanDefinition>
+  <landxml:DocFileRef name="POSE4_090226_140800" location="GTE ROBOTS_xml"/>
+  <Scan3DTransformation shiftdX="0.000000" shiftdY="0.000000" shiftdZ="0.000000" rotationX="0.000000000000000" rotationY="0.000000000000000" rotationZ="0.000000000000000" scaleX="1" scaleY="1" scaleZ="1"/>
+</Scan>
+</InstrumentSetup>
+<TPSCalibration instrumentDetailsID="TPS_3" compLongitudinal="-0.000173830805278" compTransversal="0.002265481586024" verticalIndexError="-0.000844178977260" collimHzError="0.000151258974980" tiltAxisError="0.000497868869177" aTRHzError="0.001036387854393" aTRVError="0.000617291842092" timeStamp="2024-02-19T14:10:17.23">
+<CameraInfo uniqueID="2_3" CameraType="OVC" CameraModel="Micron MT9P031" PixelSize="2.200000E-006" PixelScale="1" ChipDimensionWidth="0" ChipDimensionHeight="0" ProjectionCenterX="0.016615" ProjectionCenterY="0.060762" ProjectionCenterZ="0.054600" Phi="0.267205421578889" Theta="0.336387345818510" Kappa="-0.054338295033806" DistortionK1="0" DistortionK2="0" ChipWindow="1"/>
+<InteriorOrientation uniqueID="3_3" PrincipalPntX="1240.74" PrincipalPntY="910.57" CameraConstant="2.058050E-002" CrossHairPosX="0" CrossHairPosY="0" VirtualCameraConstant="0"/>
+<ChipWindow uniqueID="1_3" Xposition="0" Yposition="0" ChipWindowWidth="2560" ChipWindowHeight="1920"/>
+</TPSCalibration>
+</Survey>
+<Codelist codelistName="GTE ROBOTS" dataSourceRef="GTE ROBOTS_7366_0209_114414">
+  <CodeGroup codeGroupName="Default" activatedOnInstrument="true">
+  </CodeGroup>
+</Codelist>
+<ApplicationResults>
+<ApplicationSurvey ApplicationName="ApplSurvey" ApplicationVersionNumber="8.30.081" ApplicationStartDateTime="2026-02-09T11:45:06.66" ApplicationEndDateTime="2026-02-09T11:45:06.66" ApplicationNumber="1"/>
+<ApplicationSurvey ApplicationName="ApplSurvey" ApplicationVersionNumber="8.30.081" ApplicationStartDateTime="2026-02-09T11:53:12.62" ApplicationEndDateTime="2026-02-09T11:53:12.62" ApplicationNumber="2"/>
+<ApplicationSurvey ApplicationName="ApplSurvey" ApplicationVersionNumber="8.30.081" ApplicationStartDateTime="2026-02-09T12:32:11.04" ApplicationEndDateTime="2026-02-09T12:32:11.04" ApplicationNumber="3"/>
+<ApplicationSurvey ApplicationName="ApplSurvey" ApplicationVersionNumber="8.30.081" ApplicationStartDateTime="2026-02-09T12:50:23.72" ApplicationEndDateTime="2026-02-09T12:50:23.72" ApplicationNumber="5"/>
+<ApplicationSurvey ApplicationName="ApplSurvey" ApplicationVersionNumber="8.30.081" ApplicationStartDateTime="2026-02-09T13:15:27.72" ApplicationEndDateTime="2026-02-09T13:15:27.72" ApplicationNumber="7"/>
+<ApplicationSurvey ApplicationName="ApplSurvey" ApplicationVersionNumber="8.30.081" ApplicationStartDateTime="2026-02-09T13:19:02.38" ApplicationEndDateTime="2026-02-09T13:19:02.39" ApplicationNumber="8"/>
+<ApplicationSurvey ApplicationName="ApplSurvey" ApplicationVersionNumber="8.30.081" ApplicationStartDateTime="2026-02-09T13:59:43.44" ApplicationEndDateTime="2026-02-09T13:59:43.44" ApplicationNumber="10"/>
+<ApplicationTPSSetupResults ApplicationName="ApplSetup" ApplicationVersionNumber="8.30.081" ApplicationStartDateTime="2026-02-09T12:46:52.89" ApplicationEndDateTime="2026-02-09T12:50:12.54" ApplicationNumber="4" TPSSetupUniqueID="TPSSetupID_3_4"/>
+<ApplicationTPSSetupResults ApplicationName="ApplSetup" ApplicationVersionNumber="8.30.081" ApplicationStartDateTime="2026-02-09T13:11:44.91" ApplicationEndDateTime="2026-02-09T13:15:13.70" ApplicationNumber="6" TPSSetupUniqueID="TPSSetupID_3_5"/>
+<ApplicationTPSSetupResults ApplicationName="ApplSetup" ApplicationVersionNumber="8.30.081" ApplicationStartDateTime="2026-02-09T13:56:38.56" ApplicationEndDateTime="2026-02-09T13:59:32.58" ApplicationNumber="9" TPSSetupUniqueID="TPSSetupID_3_6"/>
+</ApplicationResults>
+<Project>
+<DataSources>
+<DataSource uniqueID="GTE ROBOTS_7366_0209_114414" name="GTE ROBOTS" version="4.00.091"/>
+</DataSources>
+</Project>
+</HexagonLandXML>
+</LandXML>

@@ -1,0 +1,11 @@
+<launch version="0.1.1">
+  <node pkg="aruco_opencv" exec="aruco_tracker_autostart">
+    <param from="$(find-pkg-share ar_mapping)/aruco_tracker.yaml" />
+      <!-- <param name="board_descriptions_path" value="$(find-pkg-share aruco_opencv)/config/board_descriptions.yaml" /> -->
+      <!-- <remap from="/camera/image_raw" to="/image_raw"/>
+          <remap from="/camera/camera_info" to="/camera_info"/>
+    -->
+          <remap from="/vrep/camera" to="/vrep/camera/image_raw"/>
+      <remap from="/vrep/camera_info" to="/vrep/camera/camera_info"/>
+  </node>
+</launch> 
